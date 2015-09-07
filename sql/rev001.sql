@@ -1,0 +1,10 @@
+alter table documents add column code character varying;
+alter table documents add column name character varying;
+update documents set name = code;
+alter table sales add column document_id bigint;
+alter table contacts add column document_id character varying;
+alter table contacts add column expense_id bigint;
+alter table documents drop column starts_in;
+alter table documents add column starts_in character varying;
+alter table documents drop column ends_in;
+alter table documents add column ends_in character varying;

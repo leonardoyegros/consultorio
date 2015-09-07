@@ -1,0 +1,2076 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"un",
+				"unbind"
+			],
+			[
+				"preorder",
+				"preorder_number"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"sale",
+				"sale_id"
+			],
+			[
+				"sho",
+				"show"
+			],
+			[
+				"load",
+				"loadOrders"
+			],
+			[
+				"deliver",
+				"deliveryMethod"
+			],
+			[
+				"ser",
+				"serialize"
+			],
+			[
+				"document",
+				"document_id"
+			],
+			[
+				"form",
+				"showAddContactForm"
+			],
+			[
+				"item",
+				"item_quantity"
+			],
+			[
+				"item_",
+				"item_tax"
+			],
+			[
+				"agen",
+				"agency_id"
+			],
+			[
+				"SAle",
+				"Sale"
+			],
+			[
+				"agenc",
+				"agency"
+			],
+			[
+				"preo",
+				"preorder_number"
+			],
+			[
+				"pre",
+				"preorder"
+			],
+			[
+				"sales",
+				"sales_conditions"
+			],
+			[
+				"age",
+				"agency_id"
+			],
+			[
+				"Payme",
+				"PaymentMethod"
+			],
+			[
+				"PAy",
+				"PaymentMethod"
+			],
+			[
+				"paymen",
+				"payment_methods"
+			],
+			[
+				"contac",
+				"contact"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"contact",
+				"contacts"
+			],
+			[
+				"rel",
+				"reply"
+			],
+			[
+				"live",
+				"livesearch"
+			],
+			[
+				"searc",
+				"searchContact"
+			],
+			[
+				"deli",
+				"delivery"
+			],
+			[
+				"modal",
+				"modal_request_pin"
+			],
+			[
+				"Paym",
+				"PaymentMethod"
+			],
+			[
+				"neig",
+				"neighborhood"
+			],
+			[
+				"addr",
+				"address_ref"
+			],
+			[
+				"delivered",
+				"deliveredURL"
+			],
+			[
+				"remv",
+				"removeClass"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"invoi",
+				"_invoice"
+			],
+			[
+				"email",
+				"emails"
+			],
+			[
+				"add",
+				"address2"
+			],
+			[
+				"addre",
+				"address1"
+			],
+			[
+				"upda",
+				"updateContactInfo"
+			],
+			[
+				"up",
+				"updated"
+			],
+			[
+				"vali",
+				"validateCostCenter"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"pricin",
+				"pricing_id"
+			],
+			[
+				"price_of",
+				"price_profile_selected"
+			],
+			[
+				"extr",
+				"extr"
+			],
+			[
+				"extruis",
+				"extrusion_blends"
+			],
+			[
+				"key",
+				"keyup"
+			],
+			[
+				"prod",
+				"product_id"
+			],
+			[
+				"Prod",
+				"ProductExtrusion"
+			],
+			[
+				"espec",
+				"especific_weight"
+			],
+			[
+				"POr",
+				"PordersDone"
+			],
+			[
+				"confirm",
+				"ConfirmUser"
+			],
+			[
+				"PRoduct",
+				"ProductComponent"
+			],
+			[
+				"sales_product",
+				"sales_product_id"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"extru",
+				"extrusion_blend_selector"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"SAles",
+				"SalesProduct"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Sales",
+				"SalesProduct"
+			],
+			[
+				"conta",
+				"contain"
+			],
+			[
+				"Sale",
+				"SalesProduct"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pty",
+				"ptype_cond"
+			],
+			[
+				"p",
+				"ptypes"
+			],
+			[
+				"pt",
+				"ptypes_"
+			],
+			[
+				"ptypes",
+				"ptypes_"
+			],
+			[
+				"cs",
+				"classes"
+			],
+			[
+				"cl",
+				"classes"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"total",
+				"total_antes"
+			],
+			[
+				"tota",
+				"total_antes"
+			],
+			[
+				"tot",
+				"total_antes"
+			],
+			[
+				"Ne",
+				"Neta"
+			],
+			[
+				"fACT",
+				"Facturacion"
+			],
+			[
+				"FAct",
+				"Facturacion"
+			],
+			[
+				"strre",
+				"str_replace"
+			],
+			[
+				"Load",
+				"loadModel"
+			],
+			[
+				"m",
+				"month"
+			],
+			[
+				"cost",
+				"cost_center_list"
+			],
+			[
+				"cos",
+				"cost_center_list"
+			],
+			[
+				"purch",
+				"purchase_id"
+			],
+			[
+				"new",
+				"new_prices"
+			],
+			[
+				"sto",
+				"stockProd"
+			],
+			[
+				"Pur",
+				"PurchasesProduct"
+			],
+			[
+				"icon",
+				"icon-check"
+			],
+			[
+				"cr",
+				"cursor"
+			],
+			[
+				"Deli",
+				"DeliveryZone"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"py",
+				"ptypes"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"stat",
+				"_status"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"appo",
+				"appointments"
+			],
+			[
+				"appointmen",
+				"appointments"
+			],
+			[
+				"User",
+				"UserProfessional"
+			],
+			[
+				"profe",
+				"professional"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"isnu",
+				"is_numeric"
+			],
+			[
+				"sql",
+				"sql2"
+			],
+			[
+				"productio",
+				"product_extrusion_blend_id"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"save",
+				"saveAll"
+			],
+			[
+				"nex",
+				"next_cep_3_id"
+			],
+			[
+				"parent",
+				"parent_appointment"
+			],
+			[
+				"App",
+				"Appointment"
+			],
+			[
+				"app",
+				"appointment"
+			],
+			[
+				"cond",
+				"conditions"
+			],
+			[
+				"ap",
+				"appointment"
+			],
+			[
+				"Ap",
+				"Appointment"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"Appoint",
+				"Appointments"
+			],
+			[
+				"hour",
+				"hours"
+			],
+			[
+				"profes",
+				"professionals"
+			],
+			[
+				"prof",
+				"professional_id"
+			],
+			[
+				"a",
+				"appointment"
+			],
+			[
+				"prf",
+				"professional_id"
+			],
+			[
+				"profess",
+				"professional_id"
+			],
+			[
+				"view",
+				"viewRight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/models/sale.php",
+			"settings":
+			{
+				"buffer_size": 120689,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/contacts_controller.php",
+			"settings":
+			{
+				"buffer_size": 37304,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/journals_controller.php",
+			"settings":
+			{
+				"buffer_size": 42662,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/config/core.php",
+			"settings":
+			{
+				"buffer_size": 8230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/add_presale.ctp",
+			"settings":
+			{
+				"buffer_size": 861,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/webroot/js/pos.js",
+			"settings":
+			{
+				"buffer_size": 61207,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/webroot/css/pos.css",
+			"settings":
+			{
+				"buffer_size": 5050,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_bill.ctp",
+			"settings":
+			{
+				"buffer_size": 9248,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_list.ctp",
+			"settings":
+			{
+				"buffer_size": 2857,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_form.ctp",
+			"settings":
+			{
+				"buffer_size": 7802,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/sales_controller.php",
+			"settings":
+			{
+				"buffer_size": 311281,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/message_ticket.ctp",
+			"settings":
+			{
+				"buffer_size": 2469,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_form_section_main.ctp",
+			"settings":
+			{
+				"buffer_size": 16691,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/edit.ctp",
+			"settings":
+			{
+				"buffer_size": 4676,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_form_left.ctp",
+			"settings":
+			{
+				"buffer_size": 735,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_form_section_advanced.ctp",
+			"settings":
+			{
+				"buffer_size": 3146,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/config/perms.php",
+			"settings":
+			{
+				"buffer_size": 74286,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_contacts.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/professionals_controller.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_address.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/sales_controller.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_list.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/elements/sidebar/order_received.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-2/sales_controller.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/config/core.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/tmp/logs/asdf.log",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/sales_controller.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/vendors/shells/tims.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/webroot/js/pos.js",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_bill.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-2/core.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/sql/rev045.sql",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/sql/mirev.sql",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/sql/rev045_sales_payment_methods_checks.sql",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/tmp/logs/perms.log",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/elements/sidebar/presale.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/models/taxis.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/core 2.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/config/perms.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/invoice.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/contacts_controller.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_form.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_js.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/core.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/preorder_ticket2.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/edit.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/sama.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/preorder_ticket.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/cake/tests/test_app/views/posts/cache_empty_sections.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/sama2.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_payment.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/add_presale.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/users/add.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/webroot/js/bims.js",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/locale/esp/LC_MESSAGES/default.po",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/elements/email/html/_sama_report.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/pages_controller.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/cake/libs/controller/controller.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_form_section_main.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/ticket.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/email.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/custom.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/samateresa.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/quijote_ticket.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/print.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/models/user.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-2/core 2.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-2/samateresa.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-2/sama.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/locale/eng/LC_MESSAGES/default.po",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/audits_controller.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/body.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-2/database.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-2/custom.css",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/contacts/livesearch_add_presale.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/webroot/css/pos.css",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/payment_methods/edit.ctp",
+		"/C/Users/windows 8/TIVA/Desarrollo/Sama Sushi 25 feb 2015",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/contacts/add.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/users/edit.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/models/sale.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/elements/resto_console.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/sales_controller.php.or",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/jwe_scripts.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/index.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/purchases/_main_form.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/locale/esp/LC_MESSAGES/desc.po",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/payment_methods/add.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/webroot/css/bims.css",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/webroot/css/style/css/bims.css",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/webroot/js/pos - Copy.js",
+		"/C/Users/windows 8/TIVA/Desarrollo/Plastiflex feb 2015",
+		"/C/Users/windows 8/TIVA/Desarrollo/plastiflex 23 feb 2015",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/core 3.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/porder.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/porders_controller.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/webroot/js/pos copy.js",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/_plextrusion.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/index_plastiflex.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/pl_extrusora.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/models/contact.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/purchases/index_contacts_excel.ctp",
+		"/C/Users/windows 8/TIVA/planillas de importacion/Plastiflex/mezclasdeimpresionparser.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/database.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/purchases_controller.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/journals_controller.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/journals/view.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/contacts/index.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/appointments/index.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/hola2.sql",
+		"/C/Bitnami/wappstack-5.4.28-0/php/bin/import_contacts_sama.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/Contactos1.sql",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/purchases/index_contacts.ctp",
+		"/C/Users/windows 8/TIVA/scripts/import_contacts_sama.php",
+		"/C/Bitnami/wappstack-5.4.28-0/php/bin/bims22.sql",
+		"/C/Bitnami/wappstack-5.4.28-0/php/bin/bims.sql",
+		"/C/Users/windows 8/Dropbox/Presupuestos Mios/AGB",
+		"/C/Users/windows 8/TIVA/planillas de importacion/Plastiflex/contact_update_parser.php",
+		"/C/Users/windows 8/TIVA/planillas de importacion/Plastiflex/mezclasprintdetalles.sql",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/purchases/account_excel.ctp",
+		"/C/Users/windows 8/TIVA/instalando instancias",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/purchases/_js.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/purchases/add.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/elements/topmenu.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/sql/rev044.sql",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/layouts/default.ctp",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_products.ctp",
+		"/C/Users/windows 8/TIVA/Desarrollo/Sama Sushi feb 2015",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/sql/rev014_sama.sql",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/config/database.php",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/bims.js",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/_presale_address.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/_presale_contacts.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/pos.js",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/_presale_form.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/add_presale.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/journals_controller.php",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/sql/rev039_impresion_facturas.sql",
+		"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/sql/rev012_rrhh.sql",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/_js.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-2/js.ctp",
+		"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/add.ctp",
+		"/C/Users/windows 8/TIVA/Desarrollo/JWE feb 2015",
+		"/C/Users/windows 8/TIVA/Desarrollo/ma castana"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Bitnami\\wappstack-5.4.28-0\\apache2\\htdocs\\bims2\\",
+			"C:\\Bitnami\\wappstack-5.4.28-0\\apache2\\htdocs\\bims2\\sql",
+			"C:\\Bitnami\\wappstack-5.4.28-0\\apache2\\htdocs\\cloud\\sql",
+			"C:\\Bitnami\\wappstack-5.4.28-0\\apache2\\htdocs\\cloud\\app\\sql",
+			"C:\\Bitnami\\wappstack-5.4.28-0\\apache2\\htdocs\\cloud\\app\\",
+			"C:\\Bitnami\\wappstack-5.4.28-0\\apache2\\htdocs\\cloud\\app\\locale",
+			"C:\\Bitnami\\wappstack-5.4.28-0\\apache2\\htdocs\\cloud\\app",
+			"C:\\Bitnami\\wappstack-5.4.28-0\\apache2\\htdocs\\bims\\sql"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"updateTotal",
+			"sendTicket",
+			"layou",
+			"preorder",
+			"printTicketsButton",
+			"addpre",
+			"printTickets",
+			"setTim",
+			"settim",
+			"validateClosedSales",
+			"bims",
+			"blurchange",
+			"blur",
+			"bimsPopover",
+			"setTimeout",
+			"exists",
+			"preorder_n",
+			"bims",
+			"<i",
+			"$(selector).fadeIn();",
+			"fadein",
+			"fadeoou",
+			"searchOr",
+			"searchor",
+			"submit",
+			"mine",
+			"updatecontact",
+			"loadorder",
+			"loadorde",
+			"submitAddContact",
+			"addcontact",
+			"showAddContactForm",
+			"contactform",
+			"loadorders",
+			"contactform",
+			"loadorder",
+			"submit",
+			"validateAddContactForm",
+			"salesadd",
+			"taxis",
+			"*.",
+			"tax",
+			"invoice_total",
+			"product",
+			"products",
+			"cancelAddContact",
+			"closecon",
+			"ContactDocumentId",
+			"cancelAddContact",
+			"ContactDocumentId",
+			"submitAddContact",
+			"AddContact",
+			"addcon",
+			"contactform",
+			"bindcon",
+			"validateForm",
+			"submit",
+			"ajax",
+			"validat",
+			"existe",
+			"doBill",
+			"json",
+			"modal",
+			"bind",
+			"validateForm",
+			"submit",
+			"bims",
+			"submi",
+			"requested_money_change",
+			"invoice_nu",
+			"enviando",
+			"loadorder",
+			"sales ",
+			"sales",
+			".*",
+			"contact",
+			"modal(",
+			"modal",
+			"modal(",
+			"MODAL(",
+			"dobilllllllll",
+			"bindform",
+			"bind",
+			"ajax_sav",
+			"bill",
+			"modal_",
+			"modal",
+			"modal-bill",
+			"bindlist",
+			"loadorders",
+			"modal-bill",
+			"modal-",
+			"sales/view",
+			"fram",
+			"invoice",
+			"dobill",
+			"bill",
+			"blank",
+			"frame",
+			"add_pr",
+			"<<<",
+			"pago",
+			"total_q",
+			"pin",
+			"orders",
+			"bindContacts",
+			"contact']",
+			"selectDriver",
+			"bindlist",
+			"pin",
+			"resetForm",
+			"submit",
+			"subimt",
+			"showRequestPin",
+			"show",
+			"payment",
+			"payme",
+			"close",
+			"cancel",
+			"();\n",
+			"alert",
+			"posale",
+			"pines",
+			"checkPin",
+			"pin",
+			"function show",
+			"show"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"3",
+			"\"No se configura\"",
+			"cut_raw_material_id",
+			"laminate_raw_material_id",
+			"",
+			"']);?></td>",
+			"echo round($results",
+			"<?php echo $this->element('../pages/_sama_results_sep');?>",
+			"],0));?>",
+			"));?>",
+			",0);?>",
+			"$this->mt->format(round($results[$",
+			",\\n",
+			"\\n,",
+			" => ",
+			"",
+			"\\n								<tr>",
+			"\\n<tr>",
+			"\") ?>\n									</td>\n									<td class=\"numeric\"></td>\n								</tr>	",
+			"\\n8<tr>\n									<td>\n										<?php __(\"",
+			"\\n^<tr>\n									<td>\n										<?php __(\"",
+			"\\n<tr>\n									<td>\n										<?php __(\"",
+			"<tr>\n									<td>\n										<?php __(\"",
+			",",
+			")",
+			"(",
+			", 1, 1);",
+			"(name, company_id, user_id)",
+			"', 1);\\n",
+			"\\nINSERT INTO cost_centers (name, company_id) VALUES ('",
+			",",
+			"Appointment",
+			",0)",
+			")",
+			"fin",
+			"",
+			",NULL\\n",
+			",",
+			"L UOMO",
+			"L\\'UOMO",
+			"L'\\UOMO",
+			"sale",
+			"appointments_sales_after",
+			"appointments_create_sales_after",
+			"IT",
+			"APPOINTMENT_",
+			"arg_id",
+			"create_appointment_sale",
+			"ProfessionalDaysoff",
+			"professionalsDayoff",
+			"appointment",
+			"Appointment",
+			"appointments"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 16,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/models/sale.php",
+					"settings":
+					{
+						"buffer_size": 120689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29390,
+								29400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 14716.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/contacts_controller.php",
+					"settings":
+					{
+						"buffer_size": 37304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/journals_controller.php",
+					"settings":
+					{
+						"buffer_size": 42662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/config/core.php",
+					"settings":
+					{
+						"buffer_size": 8230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/add_presale.ctp",
+					"settings":
+					{
+						"buffer_size": 861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/webroot/js/pos.js",
+					"settings":
+					{
+						"buffer_size": 61207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34616,
+								34616
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 14347.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/webroot/css/pos.css",
+					"settings":
+					{
+						"buffer_size": 5050,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_bill.ctp",
+					"settings":
+					{
+						"buffer_size": 9248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_list.ctp",
+					"settings":
+					{
+						"buffer_size": 2857,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_presale_form.ctp",
+					"settings":
+					{
+						"buffer_size": 7802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/controllers/sales_controller.php",
+					"settings":
+					{
+						"buffer_size": 311281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/message_ticket.ctp",
+					"settings":
+					{
+						"buffer_size": 2469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_form_section_main.ctp",
+					"settings":
+					{
+						"buffer_size": 16691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/edit.ctp",
+					"settings":
+					{
+						"buffer_size": 4676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_form_left.ctp",
+					"settings":
+					{
+						"buffer_size": 735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/views/sales/_form_section_advanced.ctp",
+					"settings":
+					{
+						"buffer_size": 3146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/bims2/app/config/perms.php",
+					"settings":
+					{
+						"buffer_size": 74286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34296,
+								34299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 27079.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"perms",
+				"bims2/app/config/perms.php"
+			],
+			[
+				"pos",
+				"bims2/app/webroot/js/pos.js"
+			],
+			[
+				"sales/adv",
+				"bims2/app/views/sales/_form_section_advanced.ctp"
+			],
+			[
+				"sales/forleft",
+				"bims2/app/views/sales/_form_left.ctp"
+			],
+			[
+				"salescontro",
+				"bims2/app/controllers/sales_controller.php"
+			],
+			[
+				"salesedit",
+				"bims2/app/views/sales/edit.ctp"
+			],
+			[
+				"salesmain",
+				"bims2/app/views/sales/_form_section_main.ctp"
+			],
+			[
+				"core",
+				"bims2/app/config/core.php"
+			],
+			[
+				"salescontr",
+				"bims2/app/controllers/sales_controller.php"
+			],
+			[
+				"posjs",
+				"bims2/app/webroot/js/pos.js"
+			],
+			[
+				"ticke2",
+				"bims2/app/views/sales/preorder_ticket2.ctp"
+			],
+			[
+				"presale",
+				"bims2/app/views/sales/_presale_form.ctp"
+			],
+			[
+				"presalcont",
+				"bims2/app/views/sales/_presale_contacts.ctp"
+			],
+			[
+				"presacontr",
+				"bims2/app/controllers/professionals_controller.php"
+			],
+			[
+				"sales/presale_li",
+				"bims2/app/views/sales/_presale_list.ctp"
+			],
+			[
+				"presalbil",
+				"bims2/app/views/sales/_presale_bill.ctp"
+			],
+			[
+				"_pre",
+				"bims2/app/views/sales/_presale_address.ctp"
+			],
+			[
+				"poscss",
+				"bims2/app/webroot/css/pos.css"
+			],
+			[
+				"addpres",
+				"bims2/app/views/sales/add_presale.ctp"
+			],
+			[
+				"journalcontro",
+				"bims2/app/controllers/journals_controller.php"
+			],
+			[
+				"jouracotr",
+				"bims2/app/controllers/journals_controller.php"
+			],
+			[
+				"pos.js",
+				"bims2/app/webroot/js/pos.js"
+			],
+			[
+				"contconr",
+				"bims2/app/controllers/contacts_controller.php"
+			],
+			[
+				"sale",
+				"bims2/app/models/sale.php"
+			],
+			[
+				"prebil",
+				"bims2/app/views/sales/_presale_bill.ctp"
+			],
+			[
+				"addres",
+				"bims2/app/views/sales/_presale_address.ctp"
+			],
+			[
+				"pre",
+				"bims2/app/views/sales/_presale_list.ctp"
+			],
+			[
+				"salecontr",
+				"bims2/app/controllers/sales_controller.php"
+			],
+			[
+				"ore",
+				"bims2/app/views/elements/sidebar/order_received.ctp"
+			],
+			[
+				"salecontro",
+				"bims2/app/controllers/sales_controller.php"
+			],
+			[
+				"mirev",
+				"bims2/sql/mirev.sql"
+			],
+			[
+				"tims",
+				"bims2/app/vendors/shells/tims.php"
+			],
+			[
+				"salescnro",
+				"bims2/app/controllers/sales_controller.php"
+			],
+			[
+				"sidebarpresal",
+				"bims2/app/views/elements/sidebar/presale.ctp"
+			],
+			[
+				"taxis",
+				"bims2/app/models/taxis.php"
+			],
+			[
+				"alescontro",
+				"bims2/app/controllers/sales_controller.php"
+			],
+			[
+				"pem",
+				"bims2/cake/tests/test_app/views/posts/cache_empty_sections.ctp"
+			],
+			[
+				"sales/bil",
+				"bims2/app/views/sales/_presale_bill.ctp"
+			],
+			[
+				"_prpayme",
+				"bims2/app/views/sales/_presale_payment.ctp"
+			],
+			[
+				"contaccontr",
+				"bims2/app/controllers/contacts_controller.php"
+			],
+			[
+				"sa_pre",
+				"bims2/app/views/sales/_presale_form.ctp"
+			],
+			[
+				"saleprepay",
+				"bims2/app/views/sales/_presale_payment.ctp"
+			],
+			[
+				"salebil",
+				"bims2/app/views/sales/_presale_bill.ctp"
+			],
+			[
+				"sales/js",
+				"bims2/app/views/sales/_js.ctp"
+			],
+			[
+				"co",
+				"bims2/app/config/core.php"
+			],
+			[
+				"",
+				"/C/Users/windows 8/AppData/Local/Temp/fz3temp-1/ticket.ctp"
+			],
+			[
+				"sales/",
+				"bims2/app/views/sales/_form_section_main.ctp"
+			],
+			[
+				"user.p",
+				"bims2/app/models/user.php"
+			],
+			[
+				"contacontr",
+				"bims2/app/controllers/contacts_controller.php"
+			],
+			[
+				"pagescontr",
+				"bims2/app/controllers/pages_controller.php"
+			],
+			[
+				"conta",
+				"bims2/app/controllers/contacts_controller.php"
+			],
+			[
+				"perm",
+				"bims2/app/config/perms.php"
+			],
+			[
+				"pems",
+				"bims2/cake/tests/test_app/views/posts/cache_empty_sections.ctp"
+			],
+			[
+				"contacco",
+				"bims2/app/controllers/contacts_controller.php"
+			],
+			[
+				"contacontro",
+				"bims2/app/controllers/contacts_controller.php"
+			],
+			[
+				"contact",
+				"bims2/app/controllers/contacts_controller.php"
+			],
+			[
+				"resalbill",
+				"bims2/app/views/sales/_presale_bill.ctp"
+			],
+			[
+				"resaform",
+				"bims2/app/views/sales/_presale_form.ctp"
+			],
+			[
+				"addpresa",
+				"bims2/app/views/sales/add_presale.ctp"
+			],
+			[
+				"bimsjs",
+				"bims2/app/webroot/js/bims.js"
+			],
+			[
+				"contaccontro",
+				"bims2/app/controllers/contacts_controller.php"
+			],
+			[
+				"contro",
+				"bims2/cake/libs/controller/controller.php"
+			],
+			[
+				"useradd",
+				"bims2/app/views/users/add.ctp"
+			],
+			[
+				"user",
+				"bims2/app/models/user.php"
+			],
+			[
+				"espdefaul",
+				"bims2/app/locale/esp/LC_MESSAGES/default.po"
+			],
+			[
+				"locadefa",
+				"bims2/app/locale/eng/LC_MESSAGES/default.po"
+			],
+			[
+				"ema_sama",
+				"bims2/app/views/elements/email/html/_sama_report.ctp"
+			],
+			[
+				"salescontroller",
+				"bims2/app/controllers/sales_controller.php"
+			],
+			[
+				"audits",
+				"bims2/app/controllers/audits_controller.php"
+			],
+			[
+				"emaihtml",
+				"bims2/app/views/elements/email/html/_sale_info.ctp"
+			],
+			[
+				"usersadd",
+				"bims2/app/views/users/add.ctp"
+			],
+			[
+				"useredit",
+				"bims2/app/views/users/edit.ctp"
+			],
+			[
+				"presaleconta",
+				"bims2/app/views/sales/_presale_contacts.ctp"
+			],
+			[
+				"cntac",
+				"bims2/app/controllers/contacts_controller.php"
+			],
+			[
+				"cntactcotr",
+				"bims2/app/controllers/contacts_controller.php"
+			],
+			[
+				"bims.js",
+				"bims2/app/webroot/js/bims.js"
+			],
+			[
+				"locaespdefa",
+				"bims2/app/locale/esp/LC_MESSAGES/default.po"
+			],
+			[
+				"restocono",
+				"bims2/app/views/elements/resto_console.ctp"
+			],
+			[
+				"salescontor",
+				"bims2/app/controllers/sales_controller.php.or"
+			],
+			[
+				"jwescr",
+				"bims2/app/views/sales/jwe_scripts.ctp"
+			],
+			[
+				"presform",
+				"bims2/app/views/sales/_presale_form.ctp"
+			],
+			[
+				"presconta",
+				"bims2/app/views/sales/_presale_contacts.ctp"
+			],
+			[
+				"sale.",
+				"bims2/app/models/sale.php"
+			],
+			[
+				"preaddre",
+				"bims2/app/views/sales/_presale_address.ctp"
+			],
+			[
+				"pos.css",
+				"bims2/app/webroot/css/pos.css"
+			],
+			[
+				"presadd",
+				"bims2/app/views/sales/_presale_address.ctp"
+			],
+			[
+				"sales/main",
+				"bims2/app/views/sales/_form_section_main.ctp"
+			],
+			[
+				"samainform",
+				"bims2/app/views/purchases/_main_form.ctp"
+			],
+			[
+				"presalepaym",
+				"bims2/app/views/sales/_presale_payment.ctp"
+			],
+			[
+				"paymenmethodsedit",
+				"bims2/app/views/payment_methods/edit.ctp"
+			],
+			[
+				"paymenmethodsadd",
+				"bims2/app/views/payment_methods/add.ctp"
+			],
+			[
+				"localeespdesc",
+				"bims2/app/locale/esp/LC_MESSAGES/desc.po"
+			],
+			[
+				"contacts/add",
+				"bims2/app/views/contacts/add.ctp"
+			],
+			[
+				"bimscss",
+				"bims2/app/webroot/css/style/css/bims.css"
+			],
+			[
+				"bims.css",
+				"bims2/app/webroot/css/bims.css"
+			],
+			[
+				"presaadd",
+				"bims2/app/views/sales/_presale_address.ctp"
+			],
+			[
+				"presaleform",
+				"bims2/app/views/sales/_presale_form.ctp"
+			],
+			[
+				"presaddr",
+				"bims2/app/views/sales/_presale_address.ctp"
+			],
+			[
+				"_precontact",
+				"bims2/app/views/sales/_presale_contacts.ctp"
+			],
+			[
+				"poscopy",
+				"bims2/app/webroot/js/pos copy.js"
+			],
+			[
+				"posj",
+				"bims2/app/webroot/js/pos.js"
+			],
+			[
+				"contacindex",
+				"bims2/app/views/contacts/index.ctp"
+			],
+			[
+				"journcontro",
+				"bims2/app/controllers/journals_controller.php"
+			],
+			[
+				"appoinindex",
+				"bims2/app/views/appointments/index.ctp"
+			],
+			[
+				"journalview",
+				"bims2/app/views/journals/view.ctp"
+			],
+			[
+				"contactsindex",
+				"bims2/app/views/contacts/index.ctp"
+			],
+			[
+				"indexconta",
+				"bims2/app/views/purchases/index_contacts.ctp"
+			],
+			[
+				"purchaseindexex",
+				"bims2/app/views/purchases/index_excel.ctp"
+			],
+			[
+				"accoexcel",
+				"bims2/app/views/purchases/account_excel.ctp"
+			],
+			[
+				"purchascontro",
+				"bims2/app/controllers/purchases_controller.php"
+			],
+			[
+				"purchasindexcon",
+				"bims2/app/views/purchases/index_contacts.ctp"
+			],
+			[
+				"precontact",
+				"bims2/app/views/sales/_presale_contacts.ctp"
+			],
+			[
+				"modelcontact.h",
+				"bims2/app/models/contact.php"
+			],
+			[
+				"contactcontr",
+				"bims2/app/controllers/contacts_controller.php"
+			],
+			[
+				"csspos",
+				"bims2/app/webroot/css/pos.css"
+			],
+			[
+				"prescon",
+				"bims2/app/views/sales/_presale_contacts.ctp"
+			],
+			[
+				"presaaddr",
+				"bims2/app/views/sales/_presale_address.ctp"
+			],
+			[
+				"purchases/js",
+				"bims2/app/views/purchases/_js.ctp"
+			],
+			[
+				"purchasadd",
+				"bims2/app/views/purchases/add.ctp"
+			],
+			[
+				"purchcontro",
+				"bims2/app/controllers/purchases_controller.php"
+			],
+			[
+				"topmen",
+				"bims2/app/views/elements/topmenu.ctp"
+			],
+			[
+				"jwe",
+				"bims2/app/views/sales/jwe_scripts.ctp"
+			],
+			[
+				"pres",
+				"bims2/app/views/sales/_presale_list.ctp"
+			],
+			[
+				"_presadd",
+				"bims2/app/views/sales/_presale_address.ctp"
+			],
+			[
+				"presaleprod",
+				"bims2/app/views/sales/_presale_products.ctp"
+			],
+			[
+				"salescont",
+				"bims2/app/controllers/sales_controller.php"
+			],
+			[
+				"layoudefa",
+				"bims2/app/views/layouts/default.ctp"
+			],
+			[
+				"journacontro",
+				"bims2/app/controllers/journals_controller.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/windows 8/TIVA/bims_dermo.sublime-project"
+			],
+			[
+				"2",
+				"/C/Bitnami/wappstack-5.4.28-0/apache2/htdocs/leo/hr_app/trunk/hr_app/app/webroot/css/bims2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true
+}

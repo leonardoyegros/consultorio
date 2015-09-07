@@ -1,0 +1,1 @@
+alter table purchases_fund_accounts add column exchange_rate numeric default 1;

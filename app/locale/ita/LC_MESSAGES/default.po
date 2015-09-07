@@ -1,0 +1,8 @@
+msgid "Purchases"
+msgstr "Compreeeeessss"
+
+msgid "Sales"
+msgstr "Ventunaa"
+
+msgid "Hi, "
+msgstr "Hola, "

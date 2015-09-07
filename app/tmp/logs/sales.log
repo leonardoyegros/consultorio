@@ -1,0 +1,75 @@
+2015-09-03 17:19:38 Sales: sale : {  }
+2015-09-03 17:19:38 Sales: 
+2015-09-03 17:20:00 Sales: sale : { 26 }
+2015-09-03 17:20:00 Sales: Array
+(
+    [Sale] => Array
+        (
+            [id] => 26
+            [issue_date] => 2015-09-02
+            [bill] => 1
+            [document_id] => 2
+            [invoice_number] => 001-002-012
+            [contact_id] => 26
+            [currency_id] => 7
+            [currency_price] => 1
+            [notes] => MI VENTA DE PREUBA
+            [payment_term] => credit
+            [overdue_date] => 2015-09-01
+            [overdue_amount] => 22220
+        )
+
+    [SalesExpense] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 37
+                    [SalesExpensesPrice] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 108
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 109
+                                    [price] => 0
+                                )
+
+                            [2] => Array
+                                (
+                                    [id] => 110
+                                    [price] => 22220
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [SalesFundAccount] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 
+                    [fund_account_id] => 6
+                    [amount] => 22220
+                    [exchange_rate] => 1
+                )
+
+        )
+
+    [SalesAttachment] => Array
+        (
+            [0] => Array
+                (
+                    [attachment_id] => 
+                )
+
+        )
+
+)
+
+2015-09-03 17:20:00 Sales: 

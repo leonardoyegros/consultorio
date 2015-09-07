@@ -1,0 +1,887 @@
+# Translation of App Siso / Traducción Aplicación Siso
+# Version 1.00 / Versión 1.00
+# In upper case all sections / En mayúscula todas secciones
+# Include all fields even if they are repeated / Incluir todos los campos aunque estén repetidos
+# End of section "# — " / Fin de sección "# — "
+
+
+# DASHBOARD / TABLERO
+
+msgid "Dashboard"
+msgstr "Tablero"
+
+msgid "Sales"
+msgstr "Ventas"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "Purchases"
+msgstr "Compras"
+
+msgid "Taxes"
+msgstr "Impuestos"
+
+msgid "Debit"
+msgstr "Debito"
+
+msgid "Credit"
+msgstr "Credito"
+
+msgid "Receivables"
+msgstr "Cuentas a Cobrar"
+
+msgid "See More"
+msgstr "Ver Mas"
+
+msgid "Sales by Time"
+msgstr "Ventas por Tiempo"
+
+msgid "Sales by Expense"
+msgstr "Ventas por Expensa"
+
+msgid "Payables"
+msgstr "Cuentas a Pagar"
+
+msgid "Purchases by Time"
+msgstr "Compras por Tiempo"
+
+msgid "Purchases by Expense"
+msgstr "Compras por Expensa"
+
+# — DASHBOARD / TABLERO
+
+
+# GENERAL / GENERAL
+
+msgid "General"
+msgstr "General"
+
+# DOCUMENTS / DOCUMENTOS
+
+msgid "Documents"
+msgstr "Documentos"
+
+# ADD DOCUMENT / CREAR DOCUMENTO
+
+msgid "Add Document"
+msgstr "Crear Documento"
+
+msgid "Add"
+msgstr "Crear"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Invoice"
+msgstr "Factura"
+
+msgid "Receipt"
+msgstr "Recibo"
+
+msgid "Starts In"
+msgstr "Inicia en"
+
+msgid "Ends In"
+msgstr "Termina en"
+
+msgid "Expires On"
+msgstr "Expira el"
+
+msgid "Submit"
+msgstr "Guardar"
+
+# — ADD DOCUMENT / CREAR DOCUMENTO
+
+# LIST DOCUMENTS / LISTAR DOCUMENTOS
+
+msgid "List Documents"
+msgstr "Listar Documentos"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Expires In"
+msgstr "Expira el"
+
+msgid "All"
+msgstr "Todos"
+
+# — LIST DOCUMENTS / LISTAR DOCUMENTOS
+
+# TEMPLATES / PLANTILLAS
+
+msgid "Templates"
+msgstr "Plantillas"
+
+# — TEMPLATES / PLANTILLAS
+# — DOCUMENTS / DOCUMENTOS
+
+
+# TAXES / IMPUESTOS
+
+msgid "Taxes"
+msgstr "Impuestos"
+
+# ADD TAX / CREAR IMPUESTO
+
+msgid "Add Tax"
+msgstr "Crear Impuesto"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Rate"
+msgstr "Porcentaje"
+
+msgid "Active"
+msgstr "Activo"
+
+# — ADD TAX / CREAR IMPUESTO
+
+# LIST TAXES / LISTAR IMPUESTOS
+
+msgid "List Taxes"
+msgstr "Listar Impuestos"
+
+# — LIST TAXES / LISTAR IMPUESTOS
+# — TAXES / IMPUESTOS
+
+
+# EXPENSES / EXPENSAS
+
+msgid "Expenses"
+msgstr "Expensas"
+
+# ADD EXPENSE / CREAR EXPENSA
+
+msgid "Add Expense"
+msgstr "Crear Expensa"
+
+msgid "Sales Enabled"
+msgstr "Habilitado para Ventas"
+
+msgid "Purchases Enabled"
+msgstr "Habilitado para Compras"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Tax"
+msgstr "Impuesto"
+
+# — ADD EXPENSE / CREAR EXPENSA
+
+# LIST EXPENSES / LISTAR EXPENSAS
+
+msgid "List Expenses"
+msgstr "Listar Expensas"
+
+msgid "Search By Name"
+msgstr "Buscar por Nombre"
+
+# — LIST EXPENSES / LISTAR EXPENSAS
+# — EXPENSES / EXPENSAS
+
+
+# CONTACTS / CONTACTOS
+msgid "Contacts"
+msgstr "Contactos"
+
+# ADD CONTACT / CREAR CONTACTO
+
+msgid "Init Date"
+msgstr "Fecha de Inicio"
+
+msgid "Add Contact"
+msgstr "Crear Contacto"
+
+msgid "Contact Id"
+msgstr "Identificador"
+
+msgid "Country"
+msgstr "País"
+
+msgid "City"
+msgstr "Ciudad"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Mobile"
+msgstr "Celular"
+
+msgid "Phone"
+msgstr "Teléfono"
+
+msgid "Autoinvoice"
+msgstr "Factura Automática"
+
+msgid "Autoinvoicing Repeat"
+msgstr "Repetir"
+
+msgid "Autoinvoicing Every"
+msgstr "Cada"
+
+msgid "Autoinvoicing Currency"
+msgstr "Moneda"
+
+msgid "Expense"
+msgstr "Expensa"
+
+msgid "Price"
+msgstr "Precio"
+
+# — ADD CONTACT / CREAR CONTACTO
+
+# LIST CONTACTS / LISTAR CONTACTOS
+
+msgid "List Contacts"
+msgstr "Listar Contactos"
+
+msgid "Document Id"
+msgstr "Identificador"
+
+msgid "Search by Name, Country"
+msgstr "Buscar por Nombre, País"
+
+# — LIST CONTACTS / LISTAR CONTACTOS
+# — CONTACTS / CONTACTOS
+
+
+# FILES  / ARCHIVOS
+
+msgid "Files"
+msgstr "Archivos"
+
+# LIST FILES / SUBIR ARCHIVOS
+
+msgid "List Files"
+msgstr "Subir Archivos"
+
+msgid "Attachments"
+msgstr "Adjuntos"
+
+msgid "Click or Drop your files here to upload"
+msgstr "Haga click o suelte sus archivos aquí para subirlos"
+
+msgid "Dropdown"
+msgstr "Desplegable"
+
+msgid "Preview"
+msgstr "Vista Previa"
+
+msgid "Add Sale"
+msgstr "Crear Venta"
+
+msgid "Add Collection"
+msgstr "Crear Cobro"
+
+msgid "Add Purchase"
+msgstr "Crear Compra"
+
+msgid "Add Payment"
+msgstr "Crear Pago"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Cancelled"
+msgstr "Cancelado"
+
+# — LIST FILES / SUBIR ARCHIVOS
+# — FILES  / ARCHIVOS
+# — GENERAL / GENERAL
+
+
+# SALES / VENTAS (MODULE)
+
+msgid "Local Amount"
+msgstr "Monto Local"
+
+msgid "Start Date"
+msgstr "Fecha Inicial"
+
+msgid "End Date"
+msgstr "Fecha Final"
+
+msgid "Sales"
+msgstr "Ventas"
+
+# SALES / VENTAS
+# ADD SALE / CREAR VENTA
+
+msgid "Add Sale"
+msgstr "Crear Venta"
+
+msgid "Issue Date"
+msgstr "Fecha de Emisión"
+
+msgid "Fiscal"
+msgstr "Fiscal"
+
+msgid "Document"
+msgstr "Documento"
+
+msgid "Invoice Number"
+msgstr "Número de Factura"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Currency Price"
+msgstr "Tipo de Cambio"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Items"
+msgstr "Artículos"
+
+msgid "Item"
+msgstr "Artículo"
+
+msgid "No Taxed"
+msgstr "Exento"
+
+msgid "SubTotal"
+msgstr "SubTotal"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Payment Term"
+msgstr "Término de Pago"
+
+msgid "Fund Accounts"
+msgstr "Cuentas de Fondo"
+
+msgid "Fund Account"
+msgstr "Cuenta de Fondo"
+
+msgid "Amount"
+msgstr "Monto"
+
+msgid "Exchange Rate"
+msgstr "Tipo de Cambio"
+
+msgid "Overdue Date"
+msgstr "Fecha de Vencimiento"
+
+msgid "Overdue Amount"
+msgstr "Monto a Pagar"
+
+msgid "Save"
+msgstr "Guardar"
+
+# — ADD SALE / CREAR VENTA
+
+# LIST SALES / LISTAR VENTAS
+
+msgid "List Sales"
+msgstr "Listar Ventas"
+
+# — LIST SALES / LISTAR VENTAS
+# — SALES / VENTAS
+
+# COLLECTIONS / COBROS
+
+msgid "Collections"
+msgstr "Cobros"
+
+msgid "Pay"
+msgstr "Pagar"
+
+# ADD COLLECTION / CREAR COBRO
+
+msgid "Add Collection"
+msgstr "Crear Cobro"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Issue Date"
+msgstr "Fecha de Emisión"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Exchange Rate"
+msgstr "Tipo de Cambio"
+
+msgid "Advance"
+msgstr "Anticipo"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Receivables"
+msgstr "Cuentas a Cobrar"
+
+msgid "Fund Accounts"
+msgstr "Cuentas de Fondo"
+
+msgid "Fund Account"
+msgstr "Cuenta de Fondo"
+
+msgid "Amount"
+msgstr "Monto"
+
+# — ADD COLLECTION / CREAR COBRO
+
+# LIST COLLECTIONS / LISTAR COBROS
+
+msgid "List Collections"
+msgstr "Listar Cobros"
+
+# — LIST COLLECTIONS / LISTAR COBROS
+
+# RECEIVABLES / CUENTAS A COBRAR
+
+msgid "Receivables"
+msgstr "Cuentas a Cobrar"
+
+msgid "Sale"
+msgstr "Venta"
+
+msgid "Paid"
+msgstr "Pagado"
+
+msgid "User"
+msgstr "Usuario"
+
+# — RECEIVABLES / CUENTAS A COBRAR
+# — COLLECTIONS / COBROS
+# — SALES / VENTAS (MODULE)
+
+# PURCHASES / COMPRAS (MOBULE)
+# PURCHASES / COMPRAS
+
+msgid "Purchases"
+msgstr "Compras"
+
+# ADD PURCHASE / CREAR COMPRA
+
+msgid "Add Purchase"
+msgstr "Crear Compra"
+
+msgid "Invoice Number"
+msgstr "Número de Factura"
+
+msgid "Fiscal"
+msgstr "Fiscal"
+
+msgid "Provider"
+msgstr "Proveedor"
+
+msgid "Invoice Date"
+msgstr "Fecha de Factura"
+
+msgid "Payment Term"
+msgstr "Término de Pago"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Exchange Rate"
+msgstr "Tipo de Cambio"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Items"
+msgstr "Artículos"
+
+msgid "Item"
+msgstr "Artículo"
+
+msgid "No Taxed"
+msgstr "Exento"
+
+msgid "SubTotal"
+msgstr "SubTotal"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Fund Accounts"
+msgstr "Cuentas de Fondo"
+
+msgid "Fund Account"
+msgstr "Cuenta de Fondo"
+
+msgid "Amount"
+msgstr "Monto"
+
+msgid "Overdue Amount"
+msgstr "Monto a Pagar"
+
+msgid "Overdue Date"
+msgstr "Fecha de Vencimiento"
+
+msgid "Save"
+msgstr "Guardar"
+
+# — ADD PURCHASE / CREAR COMPRA
+
+# LIST PURCHASES / LISTAR COMPRAS
+
+msgid "List Purchases"
+msgstr "Listar Compras"
+
+# — LIST PURCHASES / LISTAR COMPRAS
+# — PURCHASES / COMPRAS
+
+# PAYMENTS / PAGOS
+
+msgid "Payments"
+msgstr "Pagos"
+
+# ADD PAYMENT / CREAR PAGO
+
+msgid "Add Payment"
+msgstr "Crear Pago"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Issue Date"
+msgstr "Fecha de Emisión"
+
+msgid "Advance"
+msgstr "Anticipo"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Exchange Rate"
+msgstr "Tipo de Cambio"
+
+msgid "Payables"
+msgstr "Cuentas a Pagar"
+
+msgid "Fund Accounts"
+msgstr "Cuentas de Fondo"
+
+msgid "Fund Account"
+msgstr "Cuenta de Fondo"
+
+msgid "Amount"
+msgstr "Monto"
+
+msgid "Submit"
+msgstr "Guardar"
+
+# — ADD PAYMENT / CREAR PAGO
+
+# LIST PAYMENTS / LISTAR PAGOS
+
+msgid "List Payments"
+msgstr "Listar Pagos"
+
+# — LIST PAYMENTS / LISTAR PAGOS
+
+# PAYABLES / CUENTAS A PAGAR
+
+msgid "Payables"
+msgstr "Cuentas a Pagar"
+
+msgid "Purchase"
+msgstr "Compra"
+
+# — PAYABLES / CUENTAS A PAGAR
+# — PAYMENTS / PAGOS
+# — PURCHASES / COMPRAS (MOBULE)
+
+# FINANCE / FINANZAS
+
+msgid "Finance"
+msgstr "Finanzas"
+
+# FUND ACCOUNTS / CUENTAS DE FONDO
+
+msgid "Fund Accounts"
+msgstr "Cuentas de Fondo"
+
+# ADD FUND ACCOUNT / CREAR CUENTA DE FONDO
+
+msgid "Add Fund Account"
+msgstr "Crear Cuenta de Fondo"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Submit"
+msgstr "Guardar"
+
+# — ADD FUND ACCOUNT / CREAR CUENTA DE FONDO
+
+# LIST FUND ACCOUNTS / LISTAR CUENTAS DE FONDO
+
+msgid "List Fund Accounts"
+msgstr "Listar Cuentas de Fondo"
+
+# — LIST FUND ACCOUNTS / LISTAR CUENTAS DE FONDO
+# — FUND ACCOUNTS / CUENTAS DE FONDO
+
+
+# CURRENCIES / MONEDAS
+
+msgid "Currencies"
+msgstr "Monedas"
+
+# LIST CURRENCIES / LISTAR MONEDAS
+
+msgid "List Currencies"
+msgstr "Listar Monedas"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Symbol"
+msgstr "Símbolo"
+
+msgid "Ask"
+msgstr "Compra"
+
+msgid "Bid"
+msgstr "Venta"
+
+msgid "Decimals"
+msgstr "Decimales"
+
+msgid "Main"
+msgstr "Principal"
+
+# — LIST CURRENCIES / LISTAR MONEDAS
+# — CURRENCIES / MONEDAS
+# — FINANCE / FINANZAS
+
+# MY ACCOUNT
+
+msgid "Hi"
+msgstr "Hola"
+
+msgid "My Account"
+msgstr "Mi Cuenta"
+
+msgid "View my data"
+msgstr "Ver mis datos"
+
+msgid "View as"
+msgstr "Ver como"
+
+msgid "Viewing as"
+msgstr "Viendo como"
+
+msgid "Hi"
+msgstr "Hola"
+
+msgid "Logout"
+msgstr "Cerrar Sesión"
+
+msgid "Main"
+msgstr "Principal"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Document Id"
+msgstr "Identificador"
+
+msgid "E-mail (Username)"
+msgstr "E-mail (Usuario)"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Phone"
+msgstr "Teléfono"
+
+msgid "Mobile"
+msgstr "Celular"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+msgid "New Password"
+msgstr "Nueva Contraseña"
+
+msgid "Confirm New Password"
+msgstr "Confirmar Nueva Contraseña"
+
+msgid "The password doesn't match"
+msgstr "La contraseña no coincide"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "Search or Send an Invitation"
+msgstr "Busca o envía una invitación"
+
+msgid "Add"
+msgstr "Agregar"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Settings"
+msgstr "Configuraciones"
+
+# TOOLTIPS
+
+msgid "Add"
+msgstr "Crear"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "List"
+msgstr "Listar"
+
+msgid "Delete Selected Items"
+msgstr "Eliminar Seleccionados"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Enter the Expense Accounts here"
+msgstr "Ingrese las Expensas aquí"
+
+msgid "Enter your Purchase Items here"
+msgstr "Ingrese las Expensas aquí
+
+# — TOOLTIPS
+
+# BUILD IN DATABASE
+# PAYMENT TERM / TÉRMINO DE PAGO
+
+msgid "Cash"
+msgstr "Contado"
+
+msgid "Credit"
+msgstr "Crédito"
+
+# — PAYMENT TERM / TÉRMINO DE PAGO
+
+# COUNTRIES / PAISES
+# — COUNTRIES / PAISES
+
+
+# CITIES / CIUDADES
+# — CITIES / CIUDADES
+
+
+# CURRENCIES / MONEDAS
+
+msgid "American Dollar"
+msgstr "Dólares Americanos"
+
+msgid "Paraguayan Guaraní"
+msgstr "Guaraníes"
+
+# — CURRENCIES / MONEDAS
+# — BUILD IN DATABASE
+
+# Emails
+msgid "Welcome to SISO"
+msgstr "Bienvenido a SISO"
+
+msgid "Hi, you are now registered to siso."
+msgstr "Hola, ahora estás registrado"
+
+msgid "Thanks for using Siso. You are almost there."
+msgstr "Gracias por utilizar Siso. Estás casi ahi"
+
+msgid "To activate your account follow this"
+msgstr "Para activar tu cuenta sigue este enlace"
+	
+msgid "Search By"
+msgstr "Buscar Por"
+
+msgid "Yes"
+msgstr "Si"
+
+# Validaciones
+msgid "This can not be null"
+msgstr "Esto puede dejarse en blanco"
+
+#Sign UP
+msgid "Forgot your Password?"
+msgstr "Olvidaste tu contraseña?"
+
+msgid "Welcome to SISO"
+msgstr "Bienvenido a SISO"
+
+msgid "Please Login"
+msgstr "Por favor inicia Sesión"
+
+msgid "Add New Contact"
+msgstr "Agregar Nuevo Contacto"
+
+msgid "No Taxes"
+msgstr "Exento"
+
+msgid "Start Amount"
+msgstr "Monto Inicial"
+
+msgid "End Amount"
+msgstr "Monto Final"
+
+msgid "Receipt Number"
+msgstr "Numero de Recibo"
+
+msgid "Collection Date"
+msgstr "Fecha de Cobro"
+
+msgid "Client"
+msgstr "Cliente"
+
+
+msgid "days"
+msgstr "días"
+
+msgid "Delay"
+msgstr "Retraso"
+
+msgid "Advances"
+msgstr "Adelantos"

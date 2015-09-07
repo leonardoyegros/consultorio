@@ -1,0 +1,48 @@
+Dashboard
+-Reenviar a crear moneda si no se tiene ninguna.
+
+Filtros: 
+Contactos: 
+	- Nombre
+	- Pais
+
+Ventas:
+	- Status : (al eliminar poner como nulo no eliminar).
+	- Rango de Fechas
+	- Contacto
+	- Billed (fiscal o no)
+	- Invoice Number
+	- Currency
+	- Por expenses.
+	- Por payment term
+	- Por Total
+
+Compras
+	- Rango de Fechas
+	- Contacto
+	- Billed (fiscal o no)
+	- Invoice Number
+	- Currency
+	- Por expenses.
+	- Por payment term
+	- Por Total
+
+Collections 
+	- Status (al eliminar -> void)
+	- Fecha
+	- Advance
+	- Contacto
+	- Number
+	- Total
+
+Payments 
+	- Fecha
+	- Advance
+	- Contacto
+	- Number
+	- Total
+
+Expenses
+	- Name
+	- Type
+

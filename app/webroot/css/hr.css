@@ -1,0 +1,711 @@
+body{
+  background-color: #F3F3F3;
+  font-size: 12px;
+}
+
+table{
+  background: white;
+}
+
+tr.totals td {
+  font-weight: bold;
+}
+
+#top-menu .navbar-brand {
+  margin-left: -15px;
+  background: #428bca;
+  color: white;
+  border: none;
+  font-weight: lighter !important;
+  font-size: 16px;
+  /*border-radius: 3px 0 0 3px;*/
+}
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) {  }
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) {  }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) {  }
+
+a[role=menuitemTitle]{
+  font-weight: bold !important;
+  margin-top: 5px;
+  cursor: none !important;
+  /*background: rgb(239, 239, 239);*/
+  /*margin-top: -10px;*/
+}
+
+#top-menu span.glyphicon{
+  margin-right: 10px;
+  font-size: 12px;
+}
+
+#table_options{
+  height: 50px;
+}
+
+#top-menu{
+  z-index: 100;
+  font-size: 12px;
+  border-radius: 0px !important;
+  border: none !important;
+}
+
+#content-sidebar {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  position: absolute;
+  margin-top: -72px;
+}
+
+#sidebar{
+  width: inherit;
+  min-width: 210px;
+  max-width: 210px;
+  background-color: #E6E6E6;
+  position: relative;
+  overflow: auto;
+  padding-top: 22px;
+  float:left;
+  height: 100%;
+  display: block
+}
+
+@media screen and (max-width: 500px) {
+    #content-sidebar {
+        display: none;
+    }
+
+     #main{
+  padding-left: 225px;
+  margin-top: -5px;
+}
+}
+
+
+#main{
+  padding-left: 225px;
+  margin-top: -5px;
+}
+
+/*#main{
+    height: 100%;
+    overflow: auto;
+    overflow-x: hidden;
+    z-index: 10;
+}*/
+
+td.pk, th.pk{
+  width: 40px;
+  text-align: center;
+}
+
+
+
+th.numeric{
+  text-align: center;
+  width: 120px;
+}
+td.numeric{
+  text-align: right;
+  width: 120px;
+}
+
+.form-group > .btn-group{
+  display: block;
+}
+
+.btn-group > .dropdown-menu{
+  /*margin-top: 35px !important;*/
+}
+
+.sidebar-filters{
+  display: none;
+}
+
+h4{
+  font-size: 18px;
+  border-bottom: 1px solid rgb(214, 214, 214);
+  padding-bottom: 10px;
+}
+
+div.view .panel{
+  padding: 20px;
+  padding-bottom: 0;
+  border-top: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+#col-content{
+  padding-right: 0;
+}
+
+.panel dt, .panel dd{
+  /*float: left;*/
+  display: inline-block;
+  padding: 5px; 
+}
+
+.panel dt{
+  width: 15%;
+  text-align: right;
+  margin-right: 1%;
+}
+
+.panel dd{
+  width: 78%;
+}
+
+.view .panel{
+  display: none;
+}
+
+.cake-error{
+  display: none !important;
+}
+
+
+#sidebar {
+  position: relative;
+  height: calc(100% - 52px);
+  /* background-color: #262528; */
+  /*margin-top: -20px;*/
+  padding-right: 10px;
+  padding-left: 10px;
+  border-right: 1px #E1E1E1 solid;
+}
+
+#sidebar a, #sidebar form label{
+  font-weight: normal;
+  color: #555;
+  font-size: 12px;
+}
+
+#sidebar h4{
+   color: #949494;
+}
+
+.panel h3{
+  margin-bottom: 20px;
+
+}
+
+.form-container{
+  width: 320px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 80px;
+}
+
+.form-container2{
+  width: 380px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 120px;
+
+}
+
+#table_options .glyphicon {
+  /* margin-right: 0px !important; */
+  margin-top: 3px;
+  margin-left: 2px;
+}
+
+#logo_login{
+  margin-top: 210px;
+  font-size: 140px;
+  display: inline-block;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  text-shadow: grey 3px 3px;
+  opacity: 0.9;;
+}
+
+.col-md-3.form{
+    left: calc(12.5% - 109px);
+}
+
+div#topmessage{
+  top:10px;
+  position: fixed;
+  width: 100%;
+  margin-left: 10px;
+  padding-right: 25px;
+  opacity: 0.90;
+}
+
+.nav-stacked>li .glyphicon {
+  margin-right: 10px;
+}
+
+.dropdown-menu>li>a{
+  font-size: 12px;
+}
+
+.nav-stacked>li a:hover{
+  color: #337ab7 !important; 
+}
+
+/*#table_options .glyphicon{
+  margin-right: 0px !important;
+}*/
+
+#histograms td,#histograms th{
+  font-size: 12px !important;
+}
+
+
+
+dd i{
+  color: gray;
+  font-style: italic; 
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  clear: both;
+  display: block;
+}
+
+
+
+
+input[type=number]{
+  text-align: right;  
+}
+
+
+tr.item input[type=number]{
+  border: none;
+  text-align: right;  
+}
+
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+    width: 100% !important;
+}
+
+table div.form-group {
+  margin-bottom: 0 !important;
+  border: none !important;
+}
+
+thead{
+  background-color: rgb(240, 240, 240);
+}
+
+th{
+  text-align: center !important;
+}
+
+
+pre.cake-debug{
+  /*display: none !important;*/
+}
+
+
+/*ULTIMOS CAMBIOS*/
+
+
+
+input[type=checkbox], input[type=radio]{
+  max-width: 20px !important;
+  margin-top: 0px;
+}
+
+td.center{
+  text-align: center;
+}
+
+
+/*cambios de ale*/
+
+body{
+  background: white !important;
+}
+
+#col-content {
+  padding-right: 0;
+  /* float: left; */
+  position: relative;
+  /* width: calc(100% - 240px); */
+  /* margin-left: 15px; */
+  padding: 15px;
+  margin-top: -21px;
+}
+
+#table_options .pull-left {
+  height: 36px !important;
+  margin-right: 3px;
+  background: #FAFAFA;
+}
+
+.table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+  border-bottom-width: 0px;
+  background: #F5F5F5;
+}
+
+th a{
+  color: #4C4C4C;
+}
+
+input.form-control {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -webkit-transition:none;
+  -o-transition: none;
+  transition: none;
+}
+
+td.ck{
+  text-align: center;
+  width: 30px;
+}
+
+
+/*CAMBIOS DE ALE*/
+#profile-image {
+  float: right;
+  position: absolute;
+  /*left: 112px;*/
+  left: 10px;
+  /*border-radius: 3px;*/
+  top: 10px;
+  /* border: 3px solid rgb(231, 231, 231); */
+}
+
+span#username, span#welcome{
+  left: 59px;
+  float: left;
+  position: absolute;
+}
+
+span#welcome{
+  top: 16px;
+}
+
+span#username{
+  top: 30px;
+  font-weight: bold;
+}
+
+#topmenu-dropdown{
+  /*margin-right: -31px;*/
+}
+
+.numeric{
+  text-align: right;
+}
+
+
+.left{
+  text-align: left !important;
+}
+
+.right{
+  text-align: right !important;
+}
+
+
+.td_close{
+  width: 30px;
+}
+
+.table>tbody>tr>td{
+  vertical-align: middle !important;
+}
+
+.table>tbody>tr>td.numeric{
+  text-align: right !important;
+  font-style: italic;
+}
+
+
+.italic{
+  font-style: italic;
+  color: gray;
+}
+
+#dashboard_fiter{
+  width: 265px;
+  position: absolute;
+  display: inline-block;
+  right: 0;
+  top: 20px;
+}
+
+#dashboard_fiter form{
+  display: inline-block;
+}
+
+
+.dashboard_datepicker{
+  border: none;
+  width: 90px;
+  display: inline-block;
+  background: none;
+}
+
+.calendar_dashboard:before{
+  padding-right: 5px;
+}
+
+
+/*DASHBOARD*/
+div.indicator .summary{
+  text-align: center;
+}
+
+
+div.indicator h4{
+  text-align: center;
+}
+
+div.indicator span.amount{
+  font-size: 2em;
+}
+
+div.indicator span.currency_symbol{
+  color: gray;
+}
+
+.indicator .overdue_date{
+  color: gray;
+  font-style: italic;
+}
+
+.indicator .overdue_amount{
+  font-size: 14px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.indicator a.block{
+  border-bottom: 1px solid gray;
+}
+
+.indicator .payable{
+  margin-bottom: 10px;
+}
+
+/*FIN DASHBOARD*/
+
+
+.has-feedback label~.form-control-feedback{
+  top:22px;
+}
+
+.form-control-msg, .form-control-feedback{
+  /*display: none;*/
+}
+
+  .picture_column{
+    text-align: center;
+    padding-top: 46px;
+  }
+
+  .file_input{
+    margin-top: 15px;
+    width: 124px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    overflow-x: hidden;
+  }
+
+
+  #filters{
+    display: none;
+  }
+
+
+  .file_thumb{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    /*border: 1px solid #eee;*/
+    /*color: black;*/
+  }
+
+  .file_thumb span.glyphicon{
+    font-size: 7em;
+    text-align: center;
+    color: #D6D6D6; 
+  }
+
+  .file_thumb span.extension{
+    color: white;
+  } 
+
+  .file_thumbs .file{
+    text-align: center;
+
+  }
+
+  .file_thumbs .dropdown, .dropup{
+    margin-bottom: 30px;
+  }
+
+
+  #my_dropzone{
+    background-color: white;
+    border: 2px dashed #B8B3B3;
+    margin-bottom: 40px;
+    height: 150px;
+  }
+
+  .dz-default.dz-message{
+    text-align: center;
+    font-size: 2em;
+    margin-top: 50px;
+  }
+
+  .dz-preview{
+    display: inline-block;
+    top: 10px;
+    /*position: absolute;*/
+    float: left;
+    margin-top: -79px;
+  }
+
+  .dz-image{
+    width: 100px;
+    height: 100px;
+  }
+
+
+  .dz-success-mark, .dz-error-mark{
+    display: none;
+  }
+
+
+
+
+  /*livesearch*/
+  div#livesearch{
+      /*display: block;*/
+    display: none;
+    position: absolute;
+    background: rgb(51, 122, 183);
+    /*padding: 15px;*/
+    padding-top: 0;
+    /*top: 42px;*/
+    margin-left: 16px;
+    width: 300px;
+    z-index: 500;
+  }
+
+tr.search td{
+  position: relative;
+}
+
+#livesearch div.option{
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-top: none;
+  background-color: white;
+}
+
+ #livesearch div.option:hover{
+  cursor: pointer;
+  background-color: #ddd;
+}
+
+ #livesearch div.row:first-child{
+  border-top: 1px solid #ddd !important;
+}
+
+ #livesearch div.option.active{
+  cursor: pointer;
+  background-color: #ddd;
+ }
+  
+table input[type=checkbox]{
+  height: 15px;
+}
+
+table tr:hover td{
+  background-color: #F5F5F5;
+}
+
+div#autoinvoincing{
+  display: none;
+}
+
+#top-menu span.glyphicon.glyphicon-dashboard {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  font-size: 24px !important;
+  margin-top: -3px;
+  margin-left: 13px;
+}
+
+
+/*BUGS*/
+.report_bug{
+
+    background-color: #428BCA;
+    border: 1px solid #3F7BAE;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    color: white;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;  
+    display:none;
+}
+
+.report_bug span{
+  position: absolute;
+  font-size: 23px;
+  left: 13px;
+  top: 12px;
+}
+
+/*END BUGS*/
+
+
+/*INPUTS*/
+input, button, #table_options > a, .btn.btn-info, .well {
+  border-radius: 0px !important;    
+}
+.well.login h4{
+  
+  
+}
+
+
+#myAccountMenu{
+  padding: 20px;
+}
+
+
+#app-menu{
+  margin-top: 30px;
+}
+
+.nav-pills>li>a{
+  border-radius: 0 !important;
+}
+
+.nav-tabs>li>a{
+  border-radius: 0;
+}

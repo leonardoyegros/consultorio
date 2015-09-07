@@ -1,0 +1,31 @@
+****************************************************************************************
+NUEVOS FEATURES
+****************************************************************************************
+PAGOS
+- Crear.
+- Se agregaron mejoras en el diseño de la Vista.
+- Se agregaron las compras relacionadas en la vista.
+
+COMPRAS
+- Buscar adelantos al buscar un cliente.
+- Asignación de adelantos.
+- Actualización de monto pagado de la compra con la suma de cuentas de fondos y adelantos.
+- Actualizacion del monto utilizado de un adelanto en una compra.
+- Al buscar un adelanto disponible se traen solamente aquellos que tienen disponible un saldo.
+- Se muestran adelantos en la Vista
+- Se muestran pagos en la vista
+- Cuando la venta es crédito se muestra el monto pagado.
+- Cuando la moneda de la compra es la Default se oculta el cambio.
+
+
+
+****************************************************************************************
+CORRECCIONES
+****************************************************************************************
+COMPRAS
+- Al seleccionar Termino de Pago: credito no se buscaban los adelantos disponibles.
+- Se corrigieron decimales en los montos.
+
+DASHBOARD
+- Se descuenta en cuenta a pagar lo pagado.
+- 

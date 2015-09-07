@@ -1,0 +1,104 @@
+msgid "Purchases"
+msgstr "Compras"
+
+msgid "Dashboard"
+msgstr "Tablero"
+
+msgid "General"
+msgstr "General"
+
+msgid "My Account"
+msgstr "Mi Cuenta"
+
+msgid "My Tickets"
+msgstr "Mis Tickets"
+
+msgid "Documents"
+msgstr "Documentos"
+
+msgid "Create"
+msgstr "Crear"
+
+msgid "List Documents"
+msgstr "Listar Documentos"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "List Users"
+msgstr "Listar Usuarios"
+
+msgid "Expenses"
+msgstr "Gastos"
+
+msgid "List Expenses"
+msgstr "Listar Gastos"
+
+msgid "Contacts"
+msgstr "Contactos"
+
+msgid "List Contacts"
+msgstr "Listar Contactos"
+
+msgid "Files"
+msgstr "Archivos"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "Sales"
+msgstr "Ventas"
+
+msgid "Add Sale"
+msgstr "Agregar Venta"
+
+msgid "List Sales"
+msgstr "Listar Ventas"
+
+msgid "Collections"
+msgstr "Cobros"
+
+msgid "Add Collection"
+msgstr "Agregar Cobro"
+
+msgid "List Collections"
+msgstr "Listar Cobros"
+
+msgid "Receivables"
+msgstr "Cuentas a Cobrar"
+
+msgid "Purchases"
+msgstr "Compras"
+
+msgid "Add Purchase"
+msgstr "Agregar Compra"
+
+msgid "List Purchases"
+msgstr "Listar Compras"
+
+msgid "Payments"
+msgstr "Pagos"
+
+msgid "Add Payment"
+msgstr "Agregar Pago"
+
+msgid "List Payments"
+msgstr "Listar Pagos"
+
+msgid "Payables"
+msgstr "Cuentas a Pagar"
+
+msgid "Fund Accounts"
+msgstr "Cuentas de Fondo"
+
+msgid "Add Fund Account"
+msgstr "Agregar Cuenta de Fondo"
+
+msgid "List Fund Accounts"
+msgstr "Listar Cuentas de Fondo"
+
+msgid "Currencies"
+msgstr "Monedas"
+
+msgid "List Currencies"
+msgstr "Listar Monedas"

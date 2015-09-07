@@ -1,0 +1,163 @@
+****************************************************************************************
+REV005
+****************************************************************************************
+
+NUEVOS FEATURES
+========================================================================================
+PAGOS
+- Crear.
+- Se agregaron mejoras en el diseño de la Vista.
+- Se agregaron las compras relacionadas en la vista.
+
+COMPRAS
+- Buscar adelantos al buscar un cliente.
+- Asignación de adelantos.
+- Actualización de monto pagado de la compra con la suma de cuentas de fondos y adelantos.
+- Actualizacion del monto utilizado de un adelanto en una compra.
+- Al buscar un adelanto disponible se traen solamente aquellos que tienen disponible un saldo.
+- Se muestran adelantos en la Vista
+- Se muestran pagos en la vista
+- Cuando la venta es crédito se muestra el monto pagado.
+- Cuando la moneda de la compra es la Default se oculta el cambio.
+
+CORRECCIONES
+========================================================================================
+COMPRAS
+- Al seleccionar Termino de Pago: credito no se buscaban los adelantos disponibles.
+- Se corrigieron decimales en los montos.
+
+PAGOS
+- Se corrigio el link al pago en la lista.
+- Correción de TopBar en la Vista.
+
+DASHBOARD
+- Se descuenta en cuenta a pagar lo pagado.
+
+****************************************************************************************
+REV006
+****************************************************************************************
+
+NUEVOS FEATURES
+========================================================================================
+PAGOS
+- Se muestran las formas de pago.
+- Se muestran las compras relacionadas en la vista.
+
+
+CORRECCIONES
+========================================================================================
+PAGOS
+- Correccion de formato de montos.
+- Correcciónes de montos en cuentas de fondo en la edición.
+- Asignación correcta de total en la edición.
+
+
+****************************************************************************************
+rev007
+****************************************************************************************
+
+NUEVOS FEATURES
+========================================================================================
+TOPBARS
+- Se necesita confirmacion para eliminar elementos.
+
+****************************************************************************************
+rev008
+****************************************************************************************
+
+NUEVOS FEATURES
+========================================================================================
+DASHBOARD
+- Se muestra el balance de los impuestos, resaltando si se posee credito o debito fiscal.
+
+CORRECCIONES
+========================================================================================
+DOCUMENTOS
+- Se eliminó el titulo y se agregó al breadcrumb el detalle de la página, en agregar y editar.
+- Correcciones en el topbar
+- Validaciones del formulario.
+
+****************************************************************************************
+rev009
+****************************************************************************************
+
+DOCUMENTOS
+- Agregar: Breadcrumbs	No debe ser Documents/Add ? Quitar título. 
+- Agregar: Barra de acciones: Add, List, Help	Falta List. Quitar Search. Que todos tengan tooltips.
+- Lista: Breadcrumbs
+- Lista: Barra de acciones: se agregaron tooltips listar y eliminar.
+- Lista: Eliminar varios items a la vez
+
+****************************************************************************************
+rev010
+****************************************************************************************
+VENTAS
+- Correccion de totales tras edicion.
+
+****************************************************************************************
+rev0011
+****************************************************************************************
+VENTAS
+- Correccion de Breadcrumb
+- Correccion de barra de acciones
+- Se quito el titulo
+
+DOCUMENTOS
+- Restriccion de eliminar si esta relacionado con ventas.
+
+IMPUESTOS
+Lista:
+- Se agregaron todos las acciones de la barra.
+- Se agregaron tooltips
+- Se quito el ojo para link.
+- Validacion al crear y editar.
+- Vista: correccion de breadcrumb
+- Vista: se agrego ayuda en barra de acciones.
+
+DISEÑO
+- Resaltar fila en la que se posa el cursor.
+
+CONTACTOS
+- Correcciones en lista
+- Correcciones en barra de acciones
+- Agregar: Se agrego un checkbox para determinar si el contacto genera o no autofacturacion.
+- Vista: No se muestran pestaña de autoinvoicing si el contacto no tiene configurada esa seccion.
+- Agregar, Editar y Vista: Multiple expenses
+
+****************************************************************************************
+rev0012
+****************************************************************************************
+DASHBOARD
+- Correcciones de diseño en cuentas a pagar y cobrar
+
+****************************************************************************************
+rev0013
+****************************************************************************************
+GASTOS
+- Agregar Notas
+
+ARCHIVOS
+- Agregar Venta
+- Agregar Cobro
+
+VENTAS
+- Se muestran archivo adjunto.
+
+COBROS 
+- Se muestran archivos en la vista.
+
+Correciones varias en breadcrumbs
+
+****************************************************************************************
+rev0013
+****************************************************************************************
+- Correcciones varias en breadcrumbs y topnavs
+- Se pueden agregar compras y pagos a archivos.
+
+****************************************************************************************
+rev0015
+****************************************************************************************
+- Correcciones en usuarios asignados
+
+
+

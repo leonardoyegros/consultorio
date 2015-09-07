@@ -1,0 +1,20 @@
+2015-09-03 17:20:00 Sales_expenses_prices: Array
+(
+    [id] => 108
+    [sales_expense_id] => 37
+)
+
+2015-09-03 17:20:00 Sales_expenses_prices: Array
+(
+    [id] => 109
+    [price] => 0
+    [sales_expense_id] => 37
+)
+
+2015-09-03 17:20:00 Sales_expenses_prices: Array
+(
+    [id] => 110
+    [price] => 22220
+    [sales_expense_id] => 37
+)
+

@@ -1,0 +1,1 @@
+2015-09-03 17:41:22 Payments: UPDATE payments SET used = (SELECT SUM(amount) FROM purchases_advances WHERE purchases_advances.payment_id = payments.id)

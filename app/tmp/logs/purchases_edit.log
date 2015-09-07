@@ -1,0 +1,74 @@
+2015-09-03 17:36:55 Purchases_edit: DELETE FROM purchases_expenses_prices WHERE purchases_expense_id in (SELECT id FROM purchases_expenses WHERE purchase_id = 53);DELETE FROM purchases_expenses WHERE purchase_id = 53;
+2015-09-03 17:36:55 Purchases_edit: Array
+(
+    [Purchase] => Array
+        (
+            [id] => 53
+            [invoice_date] => 2015-08-10
+            [invoice_number] => 202020
+            [payment_term] => cash
+            [fiscal] => 1
+            [contact_id] => 10
+            [currency_id] => 7
+            [exchange_rate] => 1
+            [notes] => 
+            [total] => 23330
+            [overdue_date] => 
+            [overdue_amount] => 0
+            [paid] => 23330
+        )
+
+    [PurchasesAttachment] => Array
+        (
+            [0] => Array
+                (
+                    [attachment_id] => 
+                )
+
+        )
+
+    [PurchasesExpense] => Array
+        (
+            [1] => Array
+                (
+                    [expense_id] => 25
+                    [PurchasesExpensesPrice] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [tax_id] => 
+                                    [price] => 0
+                                )
+
+                            [1] => Array
+                                (
+                                    [tax_id] => 1
+                                    [price] => 22220
+                                )
+
+                            [2] => Array
+                                (
+                                    [tax_id] => 2
+                                    [price] => 1110
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [PurchasesFundAccount] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 48
+                    [fund_account_id] => 6
+                    [amount] => 23330
+                    [exchange_rate] => 1
+                )
+
+        )
+
+)
+

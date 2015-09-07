@@ -1,0 +1,1 @@
+alter table sales_fund_accounts add column exchange_rate numeric;
