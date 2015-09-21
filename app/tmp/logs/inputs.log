@@ -35388,3 +35388,179 @@
 				</div>
 			
 		
+2015-09-21 17:58:38 Inputs: <input type="hidden" name="data[User][id]" value="44" id="UserId" />
+2015-09-21 17:58:38 Inputs: <input type="hidden" name="data[User][id]" value="44" id="UserId" />
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-12">
+					<div class="form-group">
+		<label for="UserName">Nombre</label><input name="data[User][name]" type="text" md-cols="12" class="not-empty form-control" value="Leonardo Martinez Yegros" id="UserName" />
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-12">
+					<div class="form-group">
+		<label for="UserName">Nombre</label><input name="data[User][name]" type="text" md-cols="12" class="not-empty form-control" value="Leonardo Martinez Yegros" id="UserName" />
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-6">
+					<div class="form-group">
+		<label for="UserDocumentId">Numero de Documento</label><input name="data[User][document_id]" type="text" md-cols="6" class="not-empty form-control" value="2035140" id="UserDocumentId" />
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-6">
+					<div class="form-group">
+		<label for="UserDocumentId">Numero de Documento</label><input name="data[User][document_id]" type="text" md-cols="6" class="not-empty form-control" value="2035140" id="UserDocumentId" />
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-6">
+					<div class="form-group">
+		<label for="UserEmail">E-mail (Usuario)</label><input name="data[User][email]" type="text" md-cols="6" class="not-empty email form-control" value="leoomartinezyegros@gmail.com" id="UserEmail" />
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-6">
+					<div class="form-group">
+		<label for="UserEmail">E-mail (Usuario)</label><input name="data[User][email]" type="text" md-cols="6" class="not-empty email form-control" value="leoomartinezyegros@gmail.com" id="UserEmail" />
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-12">
+					<div class="form-group">
+		<label for="UserAddress">Dirección</label><input name="data[User][address]" type="text" md-cols="12" class=" form-control" value="Narciso Lopez 1268" id="UserAddress" />
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-12">
+					<div class="form-group">
+		<label for="UserAddress">Dirección</label><input name="data[User][address]" type="text" md-cols="12" class=" form-control" value="Narciso Lopez 1268" id="UserAddress" />
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-6">
+					<div class="form-group">
+		<label for="UserPhone">Teléfono</label><input name="data[User][phone]" type="text" md-cols="6" class=" form-control" value="" id="UserPhone" />
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-6">
+					<div class="form-group">
+		<label for="UserPhone">Teléfono</label><input name="data[User][phone]" type="text" md-cols="6" class=" form-control" value="" id="UserPhone" />
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-6">
+					<div class="form-group">
+		<label for="UserMobile">Celular</label><input name="data[User][mobile]" type="text" md-cols="6" class=" form-control" value="" id="UserMobile" />
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-6">
+					<div class="form-group">
+		<label for="UserMobile">Celular</label><input name="data[User][mobile]" type="text" md-cols="6" class=" form-control" value="" id="UserMobile" />
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-3">
+					<div class="form-group">
+		<label for="UserLang">Idioma</label><select name="data[User][lang]" class="selectpicker show-tick form-control" id="UserLang">
+<option value="eng">English</option>
+<option value="esp" selected="selected">Español</option>
+<option value="ita">Italiano</option>
+</select>
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-3">
+					<div class="form-group">
+		<label for="UserLang">Idioma</label><select name="data[User][lang]" class="selectpicker show-tick form-control" id="UserLang">
+<option value="eng">English</option>
+<option value="esp" selected="selected">Español</option>
+<option value="ita">Italiano</option>
+</select>
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-3">
+					<div class="form-group">
+		<label for="UserAutoinvoicingCurrencyId">Moneda</label><select name="data[User][autoinvoicing_currency_id]" class="selectpicker show-tick form-control" id="UserAutoinvoicingCurrencyId">
+<option value="">Seleccione</option>
+<option value="11">Default Currency</option>
+</select>
+					
+					</div>
+				</div>
+			
+		
+2015-09-21 17:58:38 Inputs: 
+			
+				<div class="col-md-3">
+					<div class="form-group">
+		<label for="UserAutoinvoicingCurrencyId">Moneda</label><select name="data[User][autoinvoicing_currency_id]" class="selectpicker show-tick form-control" id="UserAutoinvoicingCurrencyId">
+<option value="">Seleccione</option>
+<option value="11">Default Currency</option>
+</select>
+					
+					</div>
+				</div>
+			
+		

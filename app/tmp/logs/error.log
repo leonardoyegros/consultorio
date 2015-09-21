@@ -559,3 +559,4 @@ DETAIL:  Ya existe la llave (email)=(leoomartinezyegros@gmail.com). in [C:\Bitna
 2015-09-21 17:27:15 Warning: Warning (2): Creating default object from empty value in [C:\Bitnami\wappstack-5.5.28-0\apache2\htdocs\leo\consultorio\app\controllers\pages_controller.php, line 68]
 2015-09-21 17:27:25 Warning: Warning (2): Creating default object from empty value in [C:\Bitnami\wappstack-5.5.28-0\apache2\htdocs\leo\consultorio\app\controllers\pages_controller.php, line 68]
 2015-09-21 17:28:05 Warning: Warning (2): Creating default object from empty value in [C:\Bitnami\wappstack-5.5.28-0\apache2\htdocs\leo\consultorio\app\controllers\pages_controller.php, line 68]
+2015-09-21 17:50:09 Warning: Warning (2): Creating default object from empty value in [C:\Bitnami\wappstack-5.5.28-0\apache2\htdocs\leo\consultorio\app\controllers\pages_controller.php, line 68]

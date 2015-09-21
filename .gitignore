@@ -46,3 +46,4 @@ Temporary Items
 app/webroot/upload/*
 app/tmp/cache/models/*
 
+*.log
