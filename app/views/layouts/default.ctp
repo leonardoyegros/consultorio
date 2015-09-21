@@ -23,6 +23,8 @@
 		echo $html->css('chosen.min');
 		echo $html->css('hr');
 
+		echo $html->css('theme_green');
+
 
 		echo $javascript->link('jquery.min');
 		echo $javascript->link('bootstrap.min');
@@ -97,7 +99,7 @@
 	                  $masters_selected = $session->read('MasterUserSelected.User.name');
 	                  $alter_user = $session->read('alter_user');
 	                  if(empty($alter_user)){
-	                    $msg = (!empty($username[0])?  __("Hi", true)." ".$username[0] : "Set your settings here!");
+	                    $msg = (!empty($username[0])?  $username[0] : "Set your settings here!");
 	                  }else{
 	                    $masters_selected = split(' ', $masters_selected);
 	                    $msg = __("Viewing as ", true).$masters_selected[0];
@@ -111,12 +113,12 @@
 				</a>
 
 				 <ul id="app-menu" class="nav nav-pills nav-stacked">
-				  <li role="presentation" class="home active"><?php echo $this->Html->link(__('Home',true),array('controller'=>'payments', 'action'=>'index'), array('icon'=>'home'));?></li>
+				  <li role="presentation" class="home active"><?php echo $this->Html->link(__('Home',true), array('controller'=>'pages', 'action'=>'index'), array('icon'=>'home'));?></li>
 				  <li role="presentation" class="Users"><?php echo $this->Html->link(__('My Account',true),array('controller'=>'users', 'action'=>'my_account'), array('icon'=>'cog'));?></li>
 <!-- 				  <li role="presentation" class="dropdown">
 				    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
 				      Mi Cuenta <span class="caret"></span>
-				    </a>
+				    </a>	
 				   <ul class="dropdown-menu">
 			          <li><a href="#">Action</a></li>
 			          <li><a href="#">Another action</a></li>
@@ -127,8 +129,8 @@
 				  </li> -->
 				  <li role="presentation" class="Contacts"><?php echo $this->Html->link(__('Contacts',true),array('controller'=>'contacts', 'action'=>'index'), array('icon'=>'user'));?></li>
 				  <li role="presentation" class="Appoinments"><?php echo $this->Html->link(__('Citas',true),array('controller'=>'appointments', 'action'=>'index'), array('icon'=>'calendar'));?></li>
-				  <li role="presentation"><?php echo $this->Html->link(__('Dietas',true),array('controller'=>'diets', 'action'=>'index'), array('icon'=>'cutlery'));?></li>
-				  <li role="presentation"><?php echo $this->Html->link(__('Comidas',true),array('controller'=>'diets', 'action'=>'index'), array('icon'=>'list'));?></li>
+				  <li role="presentation"><?php echo $this->Html->link(__('Mascotas',true),array('controller'=>'diets', 'action'=>'index'), array('icon'=>'list'));?></li>
+				  <li role="presentation"><?php echo $this->Html->link(__('Medicamentos',true),array('controller'=>'diets', 'action'=>'index'), array('icon'=>'plus-sign'));?></li>
 				</ul>
 
 	        </div>
@@ -140,6 +142,16 @@
 				<div id="content">
 					<div id="table_options">
 						<?php echo $this->element('topbar/'.$topbar->name); ?>
+						<div class="input-group" id="globalSearch">
+					      
+					      <input type="text" class="form-control" placeholder="Buscar...">
+					      <span class="input-group-btn">
+					        <button class="btn btn-default" type="button"><span class="glyphicon glyphicon-search"></span></button>
+					      </span>
+					    </div>
+
+						<!-- <input type="text" id="globalSearch" class="form-control" placeholder="Buscar.." autocomplete="false"> -->
+
 					</div>
 		        	<?php echo $content_for_layout; ?>
 		        </div>	
@@ -158,10 +170,14 @@
 	
 </body>
 <style type="text/css">
+body{
+	background-image: url('img/backgrounds/bg1.jpg');
+}
 html,body,.container
 {
-	background: #FDFDFD;
+	background: #F4F4F4;
     height:100%;
+
 }
 .container
 {
@@ -169,9 +185,12 @@ html,body,.container
     width: 100%;
 /*    margin-top: -50px;
     padding-top: 50px;*/
-    margin-left: -15px;
+    /*margin-left: -15px;*/
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+
+    padding-left: 0px;
+    padding-right: 0px;
 }
 header
 {
@@ -197,7 +216,7 @@ header
 {
 	padding: 20px;
     display: table-cell;
-    background: #FDFDFD;
+    background: #F4F4F4;
     width: calc(80% -180px);
 }
 

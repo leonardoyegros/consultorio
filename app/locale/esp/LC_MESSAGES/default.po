@@ -197,7 +197,7 @@ msgid "Add Contact"
 msgstr "Crear Contacto"
 
 msgid "Contact Id"
-msgstr "Identificador"
+msgstr "Número de Documento"
 
 msgid "Country"
 msgstr "País"
@@ -705,7 +705,7 @@ msgid "Name"
 msgstr "Nombre"
 
 msgid "Document Id"
-msgstr "Identificador"
+msgstr "Numero de Documento"
 
 msgid "E-mail (Username)"
 msgstr "E-mail (Usuario)"
@@ -885,3 +885,90 @@ msgstr "Retraso"
 
 msgid "Advances"
 msgstr "Adelantos"
+
+msgid "Void"
+msgstr "Anulado"
+
+msgid "Billed"
+msgstr "Fiscal"
+
+msgid "This Sale already has a Collection, can't be voided"
+msstr "Esta venta posee un cobro relacionado, no puede ser anulada"
+
+msgid "Supplier"
+msgstr "Proveedor"
+
+msgid "Nothing selected"
+msgstr "Nada Seleccionado"
+
+msgid "Select"
+msgstr "Seleccione"
+
+msgid "Add New"
+msgstr "Agregar Nuevo"
+
+msgid "Mark this options to make an advace payment"
+msgstr "Marca esta opción para registrar adelantos de pagos"
+
+msgid "The purchase has been saved"
+msgstr "La compra ha sido guardada"
+
+msgid "No data to display"
+msgstr "Sin datos para mostrar"
+
+msgid "The payment has been saved"
+msgstr "El pago ha sido guardado"
+
+msgid "Related Purchases"
+msgstr "Compras Relacionadas"
+
+msgid "Payment deleted"
+msgstr "Pago borrado"
+
+msgid "Fund Accounts"
+msgstr "Cuentas de Fondo"
+
+msgid "Text Amount"
+msgstr "Monto en texto"
+
+msgid "Invoice Templates"
+msgstr "Plantillas de Impresión"
+
+msgid "Viewing as "
+msgstr "Viendo como "
+
+msgid "View as "
+msgstr "Ver como "
+
+msgid "View my data "
+msgstr "Ver mis datos "
+
+msgid "We sent an invitation to your friend"
+msgstr "Hemos enviado una notificacion a tu amigo"
+
+msgid "Send Invitation"
+msgstr "Enviar Invitacion"
+
+msgid "The sale has been saved"
+msgstr "La Venta ha sido guardada"
+
+msgid "Contact Information"
+msgstr "Información del Contacto"
+
+msgid "Amount Text"
+msgstr "Monto en Texto"
+
+msgid "Please enter the invoice number"
+msgstr "Por favor ingrese el numero de comprobante"
+
+msgid "The purchase have a Payment Related, can't be edited anymore"
+msgstr "La compra posee un Pago relacionado, ya no puede ser editada"
+
+msgid "No taxed"
+msgstr "Exento"
+
+msgid "The changes have been saved"
+msgstr "Los cambios han sido guardados"
+
+msgid "Welcome"
+msgstr "Bienvenido"

@@ -345,7 +345,7 @@ body{
 }
 
 #table_options .pull-left {
-  height: 36px !important;
+  height: 38px !important;
   margin-right: 3px;
   background: #FAFAFA;
 }
@@ -709,3 +709,25 @@ input, button, #table_options > a, .btn.btn-info, .well {
 .nav-tabs>li>a{
   border-radius: 0;
 }
+
+
+
+
+#globalSearch{
+    float: right;
+    width: 300px;
+    right: 18px;
+    position: absolute;
+}
+
+
+.centered{
+  text-align: center;
+}
+
+
+
+.input-group-btn:last-child>.btn{
+  margin-left: -40px;
+}
+

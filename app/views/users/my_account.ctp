@@ -410,6 +410,6 @@ echo $form->create('User', array('url'=>$this->passedArgs + array("?"=>$_GET)));
 
 <style type="text/css">
   div#content{
-    margin-top: -50px !important;
+    /*margin-top: -50px !important;*/
   }
 </style>

@@ -1,0 +1,4 @@
+2015-09-21 12:02:25 Users_registers: a:1:{s:4:"User";a:3:{s:5:"email";s:28:"leoomartinezyegros@gmail.com";s:8:"password";s:32:"316c153c2ada2b11e93f9888225ee0d2";s:4:"hash";s:32:"130191ee31e54e20a7d0909c6b9d685c";}}
+2015-09-21 12:02:25 Users_registers: not saved
+2015-09-21 12:06:50 Users_registers: a:1:{s:4:"User";a:3:{s:5:"email";s:28:"leoomartinezyegros@gmail.com";s:8:"password";s:32:"134b5e1bd6c25e3dccbb004ee3ec1ea3";s:4:"hash";s:32:"eb6491977638deab1ca9fa9a2c67059c";}}
+2015-09-21 12:06:50 Users_registers: saved

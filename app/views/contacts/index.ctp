@@ -1,75 +1,188 @@
-<div id="filters">
-	<form>
-	<div class="row">
-		<div class="col-md-6">
-			<div class="form-group">
-				<input type="text" id="ContactName" class="form-control" placeholder="<?php echo __("Search By", true)?> ">
+
+
+<div class="col-md-4" id="contact-left">
+	<div id="contactSearch" class="container">
+		<input type="text" id="ContactName" class="form-control" placeholder="<?php echo __("Buscar por Nombre, CI o Telefono", true)?> ">
+	</div>
+
+	<div  id="contact-list">
+		<?php foreach ($contacts as $key => $contact) {?>
+		<div class="container">
+			<div class="contact-item">
+				<a href="javascript:void(0);" class="glyphicon <?php echo $key == 0 ? ' glyphicon-star' : 'glyphicon-star-empty'?> favorite"></a>
+				<?php  echo $contact['Contact']['name'];?>
+				<span class="text-right document_id"><?php  echo $contact['Contact']['document_id'];?></span>
 			</div>
 		</div>
-		<!-- <div class="col-md-2">
-			<div class="form-group">
-				<input type="text" id="ContactDocuementId" class="form-control" placeholder="<?php echo __("Name")?>">
-			</div>
-		</div> -->
+		<?php }?>
 	</div>
-	</form>
+</div>
+<div id="contact-details" class="col-md-8">
+	<div class="row">
+		<div class="col-md-3 img-container">
+			<?php 
+              $username = $this->Session->read('User.name');
+              $username = split(' ', $username);                  
+              $image = $this->data['User']['image'];
+              if($image != ''){
+                $image = $this->Html->url('/')."upload/".$image;
+              }else{
+                $image = $this->Html->url('/')."img/leo.jpg";
+              }
+	        ?>
+			<img src="<?php echo $image?>?>" width="80" heigth="80" class="img-circle">
+		</div>
+		<div class="col-md-8">
+			<h3>Leonardo Martinez (2035140)</h3>
+			<h5><span class="glyphicon glyphicon-envelope"></span> leoomartinezyegros@gmail.com</h5>
+			<h5><span class="glyphicon glyphicon-phone"></span> 0981 497 649</h5>
+			<a class="col-md-4 btn-primary btn"><span class="glyphicon glyphicon-envelope"></span> E-mail</a>
+			<a class="col-md-4 btn-info btn"><span class="glyphicon glyphicon-pencil"></span> Editar</a>
+			<a class="col-md-4 btn-success btn"><span class="glyphicon glyphicon-plus"></span> Mascota</a>
+		</div>
+
+		<div class="col-md-12" id="pet-cards">
+
+			<div class="col-md-12">
+				<h4>Mascotas</h4>
+			</div>
+			
+
+			<div class="col-md-4">
+				<div class="pet-card">
+					<p class="img">
+						<img src="<?php echo $this->Html->url('/')."img/beagle.jpg"?>?>" width="80" heigth="80" class="img-circle">
+					</p>
+					<div class="pet-details">
+						<div class="title">Uma</div>
+						<div><strong>Especie</strong> : Perro</div>
+						<div><strong>Raza</strong> : Beagle</div>
+						<div><strong>Edad</strong> : 8 Meses</div>
+					</div>		
+					<div class="row">
+						<div class="col-md-12 centered">
+							<a href="" class="btn btn-success">Detalles</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="pet-card">
+					<p class="img">
+						<img src="<?php echo $this->Html->url('/')."img/beagle.jpg"?>?>" width="80" heigth="80" class="img-circle">
+					</p>
+					<div class="pet-details">
+						<div class="title">Uma</div>
+						<div><strong>Especie</strong> : Perro</div>
+						<div><strong>Raza</strong> : Beagle</div>
+						<div><strong>Edad</strong> : 8 Meses</div>
+					</div>		
+					<div class="row">
+						<div class="col-md-12 centered">
+							<a href="" class="btn btn-success">Detalles</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="pet-card">
+					<p class="img">
+						<img src="<?php echo $this->Html->url('/')."img/beagle.jpg"?>?>" width="80" heigth="80" class="img-circle">
+					</p>
+					<div class="pet-details">
+						<div class="title">Uma</div>
+						<div><strong>Especie</strong> : Perro</div>
+						<div><strong>Raza</strong> : Beagle</div>
+						<div><strong>Edad</strong> : 8 Meses</div>
+					</div>		
+					<div class="row">
+						<div class="col-md-12 centered">
+							<a href="" class="btn btn-success">Detalles</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+	</div>	
 </div>
 
 
 
 
-	<table class="table table-responsive table-bordered" controller="Contact">
-		<thead>
-			<tr>
-				<th><?php echo $this->Paginator->sort('name');?></th>
-				<th><?php echo __("Document Id", true);?></th>
-				<th><?php echo $this->Paginator->sort('address');?></th>
-				<th><?php echo $this->Paginator->sort('mobile');?></th>
-				<th><?php echo $this->Paginator->sort('phone');?></th>
-				<th><?php echo $this->Paginator->sort('email');?></th>
-				<th><?php echo $this->Paginator->sort('country_id');?></th>
-				<th class="pk"><input class="form-control select-all" type="checkbox"></th>
-			</tr>
-		</thead>
-		<tbody>
-	<?php
-	$i = 0;
-	foreach ($contacts as $contact):
-		$class = null;
-		if ($i++ % 2 == 0) {
-			$class = 'altrow';
-		}
-	?>
-	<tr  class="item" id="<?php echo $contact['Contact']['id'];?>" name="<?php echo strtoupper($contact['Contact']['name']); ?>" country="<?php echo strtoupper($contact['Country']['name']); ?>">
-		<td><?php echo $this->Html->link($contact['Contact']['name']?$contact['Contact']['name']:'ND',array('controller'=>'contacts', 'action'=>'view',$contact['Contact']['id'])); ?></td>
-		<td><?php echo strtoupper($contact['Contact']['document_id']); ?>&nbsp;</td>
-		<td><?php echo $contact['Contact']['address']; ?>&nbsp;</td>
-		<td><?php echo $contact['Contact']['mobile']; ?>&nbsp;</td>
-		<td><?php echo $contact['Contact']['phone']; ?>&nbsp;</td>
-		<td><?php echo $contact['Contact']['email']; ?>&nbsp;</td>
-		<td>
-			<?php echo strtoupper($contact['Country']['name']); ?>
-		</td>
-		<td class="pk"><input id="<?php echo $document['Contact']['id']; ?>" class="form-control delete-index" type="checkbox"></td>
-	</tr>
-<?php endforeach; ?>
-		</tbody>
-	</table>
-	<!-- <p>
-	<?php
-	echo $this->Paginator->counter(array(
-	'format' => __('Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%', true)
-	));
-	?>	</p>
+<style type="text/css">
+	.pet-details strong{
+		width: 60px;
+		display: inline-block;
+	}
 
-	<div class="paging">
-		<?php echo $this->Paginator->prev('<< ' . __('previous', true), array(), null, array('class'=>'disabled'));?>
-	 | 	<?php echo $this->Paginator->numbers();?>
- |
-		<?php echo $this->Paginator->next(__('next', true) . ' >>', array(), null, array('class' => 'disabled'));?>
-	</div> -->
-</div>
+	.pet-details{
+		margin-bottom: 30px;
+		margin-top: 15px;
+	}
 
+	#pet-cards{
+		margin-top: 30px;
+	}
+
+	.pet-card{
+		padding: 15px;
+		border: 1px solid #e7e7e7;
+		border-radius: 10px;
+	}
+
+	.pet-card .img{
+		text-align: center;
+	}
+
+	.pet-card .title{
+		text-align: center;
+		font-size: 14px;
+		font-weight: bold;
+	}
+
+	#contact-details h3{
+		margin-top: 0px !important;
+	}
+
+	.img-container{
+	    text-align: right;
+	}
+
+	.contact-item > .favorite{
+		margin-right: 10px;
+	}
+
+	#contact-left{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+
+	.document_id{
+		float:right;
+	}
+
+	#contact-list{
+		margin-top: 15px;
+	}
+
+	#contact-details{
+		background: white;
+		border: 1px solid #e7e7e7;
+		padding-top: 30px;
+		padding-bottom: 30px;
+
+	}
+	.contact-item{
+		padding: 10px;
+		background: white;
+		border-bottom: 1px solid #e7e7e7;
+	}
+
+</style>
 
 
 <script type="text/javascript">
@@ -101,7 +214,7 @@ var loadLock = 0;
 $('document').ready(function(){
 	
 
-	$('#filters input').keyup(function(){
+	$('#contactSearch input').keyup(function(){
 		$('tr.item').hide();
 		$('table tr.item:Contains('+$(this).val().toUpperCase()+')').show();  
 

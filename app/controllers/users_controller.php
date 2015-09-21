@@ -297,6 +297,7 @@ class UsersController extends AppController {
 
 		$this->title = __("My Account", true);
 
+
 		$this->navbar = array(
 			__('My Account', true) => array('controller'=>'users', 'action'=>'my_account')
 		);

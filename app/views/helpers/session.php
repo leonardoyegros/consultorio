@@ -150,14 +150,24 @@ class SessionHelper extends CakeSession {
 						// die("No vacio");
 						$class = 'alert-success';
 					}
-					$out = '<div id="' . $key . 'Message" class="alert ' . $class . '">' . $flash['message'] . '</div>';
+
+					/*<div class="alert alert-warning alert-dismissible" role="alert">
+				  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+				  <span aria-hidden="true">&times;</span></button>
+				 <?php if ($session->check('Message.flash')): echo $session->flash(); endif; ?>
+				</div>*/
+
+
+
+					$out = '<div id="' . $key . 'Message" class="alert alert-dismissible ' . $class . '"><button type="button" class="close" data-dismiss="alert" aria-label="Close">
+				  <span aria-hidden="true">&times;</span></button>' . __($flash['message'], true) . '</div>';
 				} elseif ($flash['element'] == '' || $flash['element'] == null) {
-					$out = '<div class="flashMessage">'.$flash['message'].'</div>';
+					$out = '<div class="flashMessage">'.__($flash['message'], true).'</div>';
 					die();
 				} else {
 					$view =& ClassRegistry::getObject('view');
 					$tmpVars = $flash['params'];
-					$tmpVars['message'] = $flash['message'];
+					$tmpVars['message'] = __($flash['message'], true);
 					$out = $view->element($flash['element'], $tmpVars);
 				}
 				parent::delete('Message.' . $key);

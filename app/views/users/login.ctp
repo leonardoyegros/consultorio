@@ -45,7 +45,6 @@
 				<div class="well login">
 					<form method="post">
 						<fieldset>
-							<h4 style="text-align:center;"><?php __("Welcome to SISO")?></h4>
 							<h5 style="text-align:center;"><?php __("Please Login")?></h5>
 							<div class="row">
 								<div class="col-md-12">

@@ -94,7 +94,7 @@ $(document).ready(function () {
   // );
 
 
-  setTimeout(function(){ $('#flashMessage').fadeOut('fast'); }, 3000);
+  // setTimeout(function(){ $('#flashMessage').fadeOut('fast'); }, 3000);
 
   var mySelect = $('#first-disabled2');
 
@@ -146,8 +146,7 @@ $(document).ready(function () {
     $('div.panel[role='+$(this).parent().attr('role')+']').show();
   });
 
-  // $('#sidebar').height(eval(innerHeight) - eval(57) - eval(15));
-  $('#sidebar').height(eval(innerHeight));
+  $('#sidebar').height(eval(innerHeight) - eval(57) - eval(15));
 
   $(window).resize(function(){
     $('#sidebar').height(eval(innerHeight) + eval(window.scrollY) - eval(57) - eval(15));
@@ -385,8 +384,9 @@ function displayAlert(msg, type){
     type = 'alert-success';
   }
 
-  var tr  = '<div class=""><div id="flashMessage" class="alert message msg alert '+type+'"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>'+msg+'</div></div>';
-  $('#topmessage').html(tr);
+  var tr  = '<div class=""><div id="flashMessage" class="alert message msg alert '+type+'">';
+  tr += '<span aria-hidden="true">&times;</span></button>'+msg+'</div></div>';
+  $('#topmessage').append(tr);
   $('#flashMessage').show();
   // setTimeout($('#flashMessage').hide(), 4000);
 }

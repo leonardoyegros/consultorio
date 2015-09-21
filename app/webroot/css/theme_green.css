@@ -1,0 +1,8 @@
+/*theme*/
+.breadcrumb{
+	border:  none !important;
+}
+
+#table_options > a{
+	border-width: 1px !important;
+}
